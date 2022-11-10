@@ -1,0 +1,1 @@
+$( "section.ads-livrariadafolha.showcase" ).bookstore( {	json: "folha-mercado-side.json"} ) ;

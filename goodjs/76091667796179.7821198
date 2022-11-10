@@ -1,0 +1,1 @@
+var LDUserAttrClient=function(){this.attr={},this.loadAttr()};LDUserAttrClient.prototype={loadAttr:function(){for(var t=document.cookie.split(/\s*;\s*/),r=0;r<t.length;r++){var i=t[r].split("=",2);if(".LUAC"==i[0]){i=i[1].split("_",3);this.attr.sex=i[0],this.attr.age=i[1],this.attr.pref=i[2];break}}}};

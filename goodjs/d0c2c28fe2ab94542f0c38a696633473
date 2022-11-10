@@ -1,0 +1,1 @@
+$(function() {	$("#newsticker").jCarouselLite({		vertical: false,		hoverPause:true,		btnPrev: ".previous",		btnNext: ".next",		visible: 3,		auto:3000,		speed:500	});});

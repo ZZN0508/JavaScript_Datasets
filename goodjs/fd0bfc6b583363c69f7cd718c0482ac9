@@ -1,0 +1,1 @@
+    var YD=YL=YJ=YS=YE=YC=YDD=YA=YM=YH=YU=false,BASE_HREF="http://www.studiocontact.net/";

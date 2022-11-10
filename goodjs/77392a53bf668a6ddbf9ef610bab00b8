@@ -1,0 +1,1 @@
+	_stq = window._stq || [];	_stq.push([ 'view', {v:'ext',j:'1:4.0.4',blog:'19538058',post:'0',tz:'-8',srv:'daytodaywoman.com'} ]);	_stq.push([ 'clickTrackerInit', '19538058', '0' ]);

@@ -1,0 +1,1 @@
+		jQuery(document).on( 'ready post-load', function(){			jQuery( 'a.share-tumblr' ).on( 'click', function() {				window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );				return false;			});		});		

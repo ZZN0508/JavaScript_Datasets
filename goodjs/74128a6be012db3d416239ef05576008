@@ -1,0 +1,1 @@
+var AFS_Account="00530625";var AFS_Tracker="auto";var AFS_Server="www5";var AFS_Page="DetectName";var AFS_Url="DetectUrl";// 

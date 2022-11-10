@@ -1,0 +1,1 @@
+		window.WPCOM_sharing_counts = {"http:\/\/daytodaywoman.com\/2011\/04\/17\/how-many-high-tech-devices-does-one-household-need\/":215};	

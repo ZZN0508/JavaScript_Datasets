@@ -1,0 +1,1 @@
+window.setTimeout( "document.getElementById ('bloghelp').style.display='none'" ,90000);

@@ -1,0 +1,1 @@
+jQuery(function($) {	$('#searchbox input[name=searchword]').search({'url': '/index.php/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found'}).placeholder();});

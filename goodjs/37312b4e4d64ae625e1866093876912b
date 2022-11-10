@@ -1,0 +1,1 @@
+document.writeln("<a href='http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20120425113518143'><img src='images/icon.gif' border=0></a>")

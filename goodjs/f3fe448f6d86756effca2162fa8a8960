@@ -1,0 +1,1 @@
+    var pageCount=5;    var displayPageNum=5;    var upPageWord ='Anterior';    var downPageWord ='Pr��ximo';    

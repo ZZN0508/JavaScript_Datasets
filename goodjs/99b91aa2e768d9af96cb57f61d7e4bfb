@@ -1,0 +1,1 @@
+google_ad_client = "ca-pub-1737393943721553";google_ad_host = "pub-1556223355139109";/* Adsense2 */google_ad_slot = "7830302622";google_ad_width = 728;google_ad_height = 90;//

@@ -1,0 +1,1 @@
+addthis_pub             = 'sakhani'; addthis_logo            = 'http://www.askyp.com/images/askyp.jpg';addthis_logo_background = 'EFEFFF';addthis_logo_color      = '666699';addthis_brand           = 'AskYP';addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';

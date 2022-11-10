@@ -1,0 +1,1 @@
+$("#articleEnd").before( "<p class=\"tarja-paineldoleitor-comentarios\"><a class=\"btn-comment\" href=\"#articleComments\"><\/a><a class=\"others\" href=\"http://www1.folha.uol.com.br/paineldoleitor/comentarios\">Veja outros textos para visitantes <span>comentarem<\/span><\/a><\/p>" );

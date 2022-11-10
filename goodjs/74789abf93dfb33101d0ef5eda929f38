@@ -1,0 +1,1 @@
+OAS_listpos = 'Top,TopRight,Middle,Right,x01,x02,Bottom1,Bottom';OAS_sitepage = 'Blogs/HotelesEnMexico/Home';OAS_query ='?=';

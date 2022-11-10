@@ -1,0 +1,1 @@
+												if(document.body.clientWidth > 1120){													document.write('</td><td width=30>&nbsp;</td><td><a class="menu" href="/tables/42/"><nobr><b>????????? ???????</b></nobr></a>');												}																																																

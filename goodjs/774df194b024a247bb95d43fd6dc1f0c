@@ -1,0 +1,1 @@
+if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogId=1116654;networkedblogs.shortName="allcomics4free";}

@@ -1,0 +1,1 @@
+var usrarids = {};function ustarrating(id, mark) {	if (!usrarids[id]) {		usrarids[id] = 1;		$(".u-star-li-"+id).hide();		_uPostForm('', {type:'POST', url:'/news/', data:{'a':'65','id':id,'mark':mark,'mod':'news','ajax':'2'}});	}}

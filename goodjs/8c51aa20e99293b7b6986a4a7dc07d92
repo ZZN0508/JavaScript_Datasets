@@ -1,0 +1,1 @@
+    document.domain = 'daum.net';	jQuery(function() {		jQuery("body")			.data('MSGBOX_SERVER', 'http://msgbox.cafe.daum.net')			.data('IS_LOGIN', '');        cafeTopHomeInit();	});	var trackingTiara = function(url) {		jQuery("#tiara").attr("src", url);	};	window.key="${WINDOW_KEY}";

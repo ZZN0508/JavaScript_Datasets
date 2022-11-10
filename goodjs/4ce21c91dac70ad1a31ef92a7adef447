@@ -1,0 +1,1 @@
+					document.write( '<a href=\"whatsapp://send?text=Varejistas%20mant%C3%AAm%20investimentos%20em%202015%2C%20apesar%20da%20crise http%3A%2F%2Fwww1.folha.uol.com.br%2Fmercado%2F2015%2F05%2F1633172-varejistas-mantem-investimentos-em-2015-apesar-da-crise.shtml Via Folha de S.Paulo\"><i class=\"section-sprite icon-whatsapp-small\"><\/i>Whatsapp<\/a><\/script>' ) ;					//

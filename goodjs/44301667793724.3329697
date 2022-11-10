@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["omn1My",(e,t)=>{"use strict";var r,a,n,u=()=>{var e=r.useContext(a)["locale"];return!n.has(e.language)};return[()=>{n=new Set(["zh","iw","ar","el","ja","ko","ru","th","vi"]),e("default",u)},[e=>r=e,e=>a=e.Environment]]},["cDcdfi","2R4xv2"]]);

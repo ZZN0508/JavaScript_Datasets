@@ -1,0 +1,1 @@
+if(document.getElementById('HiddenDiv') != null){document.getElementById('HiddenDiv').style.visibility = 'hidden';document.getElementById('HiddenDiv').style.display = 'none';}

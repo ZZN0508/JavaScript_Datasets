@@ -1,0 +1,1 @@
+            /**             * FIXME: For @a.kushnir             * FIXME: Remove this marker when analytics in mako became consistent across             * FIXME: all project parts, i.e. catalog + cms + company_sites + admin             */            window.NEW_TRACKING_INIT = true;        

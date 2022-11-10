@@ -1,0 +1,1 @@
+			jQuery( document ).ready( function() {			    jQuery.getScript( '//platform.linkedin.com/in.js?async=true', function success() {			        IN.init();			    });			});			jQuery( document.body ).on( 'post-load', function() {				if ( typeof IN != 'undefined' )					IN.parse();			});			

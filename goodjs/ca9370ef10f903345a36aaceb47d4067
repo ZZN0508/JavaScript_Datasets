@@ -1,0 +1,1 @@
+this.player = new Uppod({stflash:"/html5/style_swf.txt",swf:"/pleer/uppod.swf",poster:"/_nw/69/57608089.jpg",m:"video",uid:"videoplayer6947",st:"uppodvideo",pl:"http://4doma.net/pleer/200-400/adskaja_kukhnja_14_sezon.txt"});

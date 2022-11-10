@@ -1,0 +1,1 @@
+folha.toolbar.readspeaker( "http://tools.folha.com.br/print?url=http://www1.folha.uol.com.br/mercado/2015/02/1583771-receita-vai-apertar-o-cerco-contra-encomendas-em-sites-no-exterior.shtml" ) ;

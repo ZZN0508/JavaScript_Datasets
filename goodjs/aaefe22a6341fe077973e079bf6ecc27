@@ -1,0 +1,1 @@
+(function() {var script = document.createElement('script');script.type = 'text/javascript';script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';var head = document.getElementsByTagName('head')[0];if (head) {head.appendChild(script);}})();

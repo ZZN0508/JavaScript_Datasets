@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{HiXF:function(n,t,e){"use strict";e.r(t);var i=e("mXGw"),i=e.n(i),u=e("83UR"),w=i.a.createElement;t.default=function(){return w(u.a,{activeTab:"rent"})}},"jIH/":function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/buy",function(){return e("HiXF")}])}},[["jIH/",1,0]]]);

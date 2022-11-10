@@ -1,0 +1,1 @@
+YUI.add("ape-applet-lang-strings_zh-hant-hk",function(E,a){E.Intl.add("ape-applet/strings","zh-Hant-HK",{MORE_INFO:"æ›´å¤šè³‡è¨Š",POWERED_BY:"æŠ€è¡“æä¾›å» å•†",DONE:"å®Œæˆ",REMOVE:"ç§»é™¤",DOUBLE_CONFIRM:"ä½ ç¢ºå®šå—Žï¼Ÿ",CANCEL:"å–æ¶ˆ",EDIT_SETTINGS:"ç·¨è¼¯è¨­å®š",SAVE:"å„²å­˜"})},"@VERSION@",{requires:["intl"]});

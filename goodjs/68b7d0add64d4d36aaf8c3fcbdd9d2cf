@@ -1,0 +1,1 @@
+														if((get_cookie('ncysh')!='1')&&(Math.random() < 0.2)){$('#noticeY').show();}																												

@@ -1,0 +1,1 @@
+google_ad_client = "pub-9910487669067128";/* 200x200, allredfamilytherapy.org */google_ad_slot = "9707285298";google_ad_width = 200;google_ad_height = 200;//

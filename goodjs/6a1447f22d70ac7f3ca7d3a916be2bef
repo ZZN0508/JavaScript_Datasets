@@ -1,0 +1,1 @@
+	function closev(eid){		$('#cv' + eid).hide();		$('#cw' + eid).load('/ajax/closev.php?lng=ru&id=' + eid + '&' + Math.random());		$('#cw' + eid).show();		return false;}	

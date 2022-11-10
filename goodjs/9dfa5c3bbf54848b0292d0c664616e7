@@ -1,0 +1,1 @@
+		var dc_UnitID = 14;		var dc_PublisherID = 204824;		var dc_AdLinkColor = 'blue';		var dc_adprod='ADL';		var dc_open_new_win = 'yes'; 	   

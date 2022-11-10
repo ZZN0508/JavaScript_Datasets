@@ -1,0 +1,1 @@
+strx.start({"content":"#content","sidebar":".sidebar","wait":"0","debounce":"0","animate":"0","offsetTop":"20","offsetBottom":"0","debug":0,"outline":0,"findids":0,"dynamicTop":"on","jsInHead":"","minHDiff":"0"});

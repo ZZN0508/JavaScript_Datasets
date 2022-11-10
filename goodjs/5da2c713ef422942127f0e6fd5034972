@@ -1,0 +1,1 @@
+/* <![CDATA[ */var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/easybuzz.site11.com\/?wc-ajax=%%endpoint%%"};/* ]]> */

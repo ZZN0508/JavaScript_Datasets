@@ -1,0 +1,1 @@
+google_ad_client = "pub-4912824801568295";/* 160x600, created 9/4/08 */google_ad_slot = "7779630251";google_ad_width = 160;google_ad_height = 600;//

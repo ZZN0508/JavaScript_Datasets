@@ -1,0 +1,1 @@
+define((function(){"use strict";var n,e=new Promise((function(e,i){n=e}));return{init:function(e){n(e)},registerFavicon:function(n){return e.then((function(e){e.registerFavicon(n)}))},removeFavicon:function(n){return e.then((function(e){e.removeFavicon(n)}))}}}));

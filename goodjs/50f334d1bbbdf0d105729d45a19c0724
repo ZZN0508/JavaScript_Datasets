@@ -1,0 +1,1 @@
+google_ad_client = "ca-pub-5624452737439520";/* */google_ad_slot = "4577654613";google_ad_width = 728;google_ad_height = 90;//

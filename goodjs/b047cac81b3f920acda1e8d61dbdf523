@@ -1,0 +1,1 @@
+google_ad_client = "ca-pub-5624452737439520";/* LeaderboardAnnatord */google_ad_slot = "5561089644";google_ad_width = 728;google_ad_height = 90;//

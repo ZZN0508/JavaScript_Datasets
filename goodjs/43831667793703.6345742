@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["ylqI3R",(t,e)=>{"use strict";var i,n,s,o=()=>n.title,u=t=>{i.useEffect(()=>{document.title=t},[t])},d=()=>s,l=({})=>{};return[()=>{n={title:void 0},s={image:void 0,video:void 0},t({useDocumentTitle:u,usePageContentAnnotations:l,usePublishedDocumentTitle:o,usePublishedPageContentAnnotations:d})},[t=>i=t]]},["cDcdfi"]]);

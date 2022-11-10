@@ -1,0 +1,1 @@
+    window.addEvent('load', function (){ equalHeight ('#ja-topsl .ja-box') });

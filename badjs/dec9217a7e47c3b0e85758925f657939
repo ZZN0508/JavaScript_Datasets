@@ -1,0 +1,3 @@
+/*<![CDATA[*/window.pagePath="#";/*]]>*/
+/*<![CDATA[*/window.___chunkMapping={"polyfill":["/polyfill-5ef5a555a07b3c6452d1.js"],
+        "app":["/app-2b5a75f35e7d5a1e67ad.js"],"component---src-pages-404-tsx":["/component---src-pages-404-tsx-72d9b75592037c501271.js"],"component---src-pages-apps-tsx":["/component---src-pages-apps-tsx-0ae8f405963eda7b9e44.js"],"component---src-pages-demo-video-tsx":["/component---src-pages-demo-video-tsx-73f91d1d80354449c634.js"],"component---src-pages-index-tsx":["/component---src-pages-index-tsx-07c032c2ae0e9e178321.js"],"component---src-pages-wallets-tsx":["/component---src-pages-wallets-tsx-a8515f9109ae96b14573.js"]};/*]]>*/

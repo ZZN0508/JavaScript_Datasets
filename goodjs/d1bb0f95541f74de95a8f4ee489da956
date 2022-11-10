@@ -1,0 +1,1 @@
+            function openchat (url)            {                fenster = window.open(url, "Livechat", "width=800,height=600,status=yes,scrollbars=yes,resizable=yes");                fenster.focus();            }        

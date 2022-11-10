@@ -1,0 +1,1 @@
+window.addEvent('domready', function() {	var myAccordion156 = new Accordion(document.getElements('#accordion_sp1 .toggler'), document.getElements('#accordion_sp1 .sp-accordion-inner'), {		opacity: true,				alwaysHide: true,				onActive: function(toggler){			toggler.addClass('active');		},		onBackground: function(toggler){			toggler.removeClass('active');		}	});});

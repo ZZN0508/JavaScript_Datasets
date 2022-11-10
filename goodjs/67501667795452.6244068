@@ -1,0 +1,1 @@
+_satellite.__registerScript("https://assets.adobedtm.com/bb77750356fd/42bfe6bcc850/7ff89b7f1a62/RCc138c3393f56415ebf739ba7b8ecca91-source.min.js",'!function(){var n=new Image;n.src="https://www.telegraph.co.uk/content/dam/generic/Matt-cartoon-255x206px-small.png?adCount=1",n.onload=function(){tmgAds.adblock=!1},n.onerror=function(){tmgAds.adblock=!0}}();');

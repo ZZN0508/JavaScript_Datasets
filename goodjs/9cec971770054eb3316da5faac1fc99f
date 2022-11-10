@@ -1,0 +1,1 @@
+function votelook(){	var url = "/Modules/Other/Vote/?VoteID=" + document.all.VoteID.value +"&ViewType=1";	var popup = window.open(url,'votelook','top=50,left=50,toolbar=0,scrollbars=yes,resizable=no,width=620,height=400');	return;}//

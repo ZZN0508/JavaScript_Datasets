@@ -1,0 +1,1 @@
+document.write("<textarea name='me"+"ssa"+"ge' id='message' style='width:400px;' cols='100%' rows='10'></textarea>");

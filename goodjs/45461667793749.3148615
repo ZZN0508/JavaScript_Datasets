@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["Oc3sTL",(t,e)=>{"use strict";function i(){var t=document.querySelector("#gpt-ad-320x50-adhesion");if(!t)return!1;t=t.getAttribute("data-advertiser-id");return!(!t||t===55978451..toString())}return t("doesAdExistOnPage",i),[()=>{t({ADHESION_COLLAPSE_ADVERTISER_ID:55978451,doesAdExistOnPage:i,mobileAdhesionId:"gpt-ad-320x50-adhesion"})},[]]},[]]);

@@ -1,0 +1,1 @@
+  googletag.cmd.push(function() {    googletag.defineSlot('/21633896773/728', [728, 90], 'div-gpt-ad-1505931456231-0').addService(googletag.pubads());    googletag.pubads().enableSingleRequest();    googletag.enableServices();  });

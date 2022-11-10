@@ -1,0 +1,1 @@
+_satellite.__registerScript("https://assets.adobedtm.com/bb77750356fd/42bfe6bcc850/7ff89b7f1a62/RCd54e9c42e0624ea0ad5b96782ea44321-source.min.js",'console.log("LAUNCH: YouTube AdBlock check disabled (v2.0)");');

@@ -1,0 +1,1 @@
+	function RedirectCompanyURL(thisIndex)	{		if (thisIndex != -1)		{			if(document.Form1.jumpto.options[document.Form1.jumpto.selectedIndex].value!="0")			{				var URL = document.Form1.jumpto.options[document.Form1.jumpto.selectedIndex].value;				window.open(URL); 			}		}	}

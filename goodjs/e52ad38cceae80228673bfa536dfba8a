@@ -1,0 +1,1 @@
+_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();

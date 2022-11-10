@@ -1,0 +1,1 @@
+				function spages(p,link) {					document.location.href = atob(link);				}			

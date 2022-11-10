@@ -1,0 +1,1 @@
+            window.uolads && window.uolads.push({ id: "banner-150x385-area" });        

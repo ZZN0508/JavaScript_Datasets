@@ -1,0 +1,1 @@
+	st_go({v:'ext',j:'1:1.3',blog:'54896915',post:'6'});	var load_cmc = function(){linktracker_init(54896915,6,2);};	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);	else load_cmc();	

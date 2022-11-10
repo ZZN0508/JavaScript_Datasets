@@ -1,0 +1,1 @@
+var str00="http://www.sbcs.com.cn/blog/";var str01="���ƻ����䲻��Ϊ��";var str02="���ƻ������ʽ����";var str03="���Բ���Ϊ�ջ����";var str06="��ʾUBB����>>";var intMaxLen="1000";function runcode(code1){code2=document.all(code1);var code3=code2.value;if (code3!=""){var newwin=window.open('','','');newwin.opener = null;newwin.document.write(code3);newwin.document.close();}}

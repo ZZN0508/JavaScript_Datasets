@@ -1,0 +1,1 @@
+    window.setTimeout(function() {        document.body.className = document.body.className.replace('loading', '');      }, 10);  

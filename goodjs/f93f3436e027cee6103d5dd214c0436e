@@ -1,0 +1,1 @@
+        $('.photo1').Photo({          highresLinks: true,          rel: $('.photoset-grid1').attr('data-id'),          gutter: '5px',                  onComplete: function(){}        });        

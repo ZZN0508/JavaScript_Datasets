@@ -1,0 +1,1 @@
+if(get_cookie('brow')==''){	document.write("<style>#bwcon {content:url('//cdn.livetvcdn.net/img/" + browser + ".png')}</style>");}else{		document.write("<style>#bwcon {content:url('//cdn.livetvcdn.net/img/" + get_cookie('brow') + ".png')}</style>");}

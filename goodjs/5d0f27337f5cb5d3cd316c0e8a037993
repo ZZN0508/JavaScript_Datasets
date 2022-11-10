@@ -1,0 +1,1 @@
+$( "#folha-top" ).folha_top( {	most_read: folha.top.most_read ,	most_commented: folha.top.most_commented ,		most_shared: folha.top.most_shared ,	unread: folha.unread.cache ,	news_index: "Em Mercado"} ) ;

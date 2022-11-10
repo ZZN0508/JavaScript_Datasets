@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["Igs38q",(e,s)=>{"use strict";var t,a,i=()=>t.createElement("div",{className:"_2Tdi0Dl4"},t.createElement(a,{size:"large"}));return[()=>{e("default",i)},[e=>t=e,e=>a=e.LoadingBubbles]]},["cDcdfi","V08PS7"]]);

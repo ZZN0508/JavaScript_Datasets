@@ -1,0 +1,2 @@
+new guacImage("//img1.wsimg.com/isteam/stock/4789/:/rs=w:{width},h:{height},cg:true,m/cr=w:{width},h:{height},a:cc",document.getElementById('guacBg73419'),{"useTreatmentData":true,"backgroundLayers":["linear-gradient(to bottom, rgba(0, 0, 0, 0.24) 0%, rgba(0, 0, 0, 0.24) 100%)"]})
+(function() {var n=document.querySelector('[data-aid="HEADER_NAV_RENDERED"]');n.offsetHeight>0&&n.offsetWidth>0&&(Number(window.vctElements)||(window.vctElements=0),window.vctElements++);}())

@@ -1,0 +1,1 @@
+  if (screen.width > 1300)    link = document.getElementsByTagName( "link" )[ 0 ];    link.href = "http://babygracephotography.com/wordpress/wp-content/themes/rounded-new/syle_large.css";

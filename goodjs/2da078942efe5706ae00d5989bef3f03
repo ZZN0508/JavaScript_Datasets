@@ -1,0 +1,1 @@
+if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogId=514374;networkedblogs.shortName="info_celebrity";}

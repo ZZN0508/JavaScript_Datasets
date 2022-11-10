@@ -1,0 +1,1 @@
+function externalLinks(){if(document.getElementsByTagName)for(var e=document.getElementsByTagName("a"),t=0;t<e.length;t++){var n=e[t];n.getAttribute("href")&&"external"==n.getAttribute("rel")&&(n.target="_blank")}}window.onload=externalLinks;

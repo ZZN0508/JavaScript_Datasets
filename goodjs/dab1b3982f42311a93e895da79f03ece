@@ -1,0 +1,1 @@
+		function goToSearch(){			var q = jQuery("#q").val();			window.open("http://search.daum.net/search?w=tot&DA=60A&q=" + q);		}	

@@ -1,0 +1,1 @@
+/* <![CDATA[ */ jQuery(document).ready( function() { jQuery.post( "https://themindunleashed.com/wp-admin/admin-ajax.php", { action : "entry_views", _ajax_nonce : "d9301c7ad3", post_id : 9186 } ); } ); /* ]]> */

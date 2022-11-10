@@ -1,0 +1,1 @@
+     function commentToggle(selectTab) {       $(".comments-tab").addClass("inactive-select-tab");       $(selectTab).removeClass("inactive-select-tab");       $(".comments-page").hide();       $(selectTab + "-page").show();     }     

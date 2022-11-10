@@ -1,0 +1,1 @@
+$( "#ticker" ).ticker( { 	collection: folha.ticker.collection , 	advertising: folha.ticker.advertising } ) ;

@@ -1,0 +1,1 @@
+ if ( window.location.protocol == 'ht' + 'tp:' ) { document.getElementById('login_submit').disabled=true; }

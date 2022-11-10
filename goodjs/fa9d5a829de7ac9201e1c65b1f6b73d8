@@ -1,0 +1,1 @@
+/* <![CDATA[ */var sharing_js_options = {"lang":"en","counts":"1"};/* ]]> */

@@ -1,0 +1,1 @@
+!function(e,t){var n,i;return!e.navigator||!(n=navigator.userAgent)||n.indexOf("Chrome/")<0||!(i=e.RequestFileSystem||e.webkitRequestFileSystem)?t(0):void i(e.TEMPORARY,100,function(){t(0)},function(){t(1)})}(window,function(e){e&&(document.querySelector("input[name=ic]").value="1"),document.getElementById("rf").submit()})

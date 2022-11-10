@@ -1,0 +1,1 @@
+_satellite.__registerScript("https://assets.adobedtm.com/331fbea29f79/8f42148123cf/441551baaf47/RC357c963f8b4f4368bce11c023966150b-source.min.js",'window.targetPageParams=function(){var a={},r=adobe.consulting.util.getObjVal(digitalData,"segment.list");if(!Array.isArray(r))return a;for(var t=0;t<r.length;t++)a["DC_Geo__"+r[t]]="yes";return a};');

@@ -1,0 +1,1 @@
+/* <![CDATA[ */	var dropdown = document.getElementById("cat");	function onCatChange() {		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {			location.href = "http://www.ihow.cn/?cat="+dropdown.options[dropdown.selectedIndex].value;		}	}	dropdown.onchange = onCatChange;/* ]]> */

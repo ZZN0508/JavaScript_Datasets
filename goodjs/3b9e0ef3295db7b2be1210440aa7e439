@@ -1,0 +1,1 @@
+  $(function(){  $('#img10819').click(function(){var s="'sc'";  new _uWnd('sc','���֧ѧݧ�ߧ�� ��ѧ٧ާ֧�',100,100,{autosize:1,shadow:1,autosizeonimages:1,header:0},'<img src="'+$(this).attr('src')+'" align="center" alt="" onclick="_uWnd.close('+s+')" style="cursor:pointer;">');});  }); 

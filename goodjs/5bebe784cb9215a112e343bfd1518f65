@@ -1,0 +1,1 @@
+var ultimaFecha = 'Friday, 13 April 2012';

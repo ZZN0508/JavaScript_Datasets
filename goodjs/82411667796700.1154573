@@ -1,0 +1,1 @@
+document.write("<iframe width='300' height='250' marginwidth='0' marginheight='0' frameborder='0' scrolling='no' allowtransparency='true' src='//img.tfd.com/m/housebanners/grammarbook-resp.html'></iframe>");

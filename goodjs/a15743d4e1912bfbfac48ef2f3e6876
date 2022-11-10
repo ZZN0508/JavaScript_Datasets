@@ -1,0 +1,1 @@
+var lblname = "iphone";lblname2 = encodeURIComponent(lblname);var feedlink = '/search/label/' + lblname2+'?&max-results=10';document.write('<a href="' + feedlink + '">'+lblname+'</a>');

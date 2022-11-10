@@ -1,0 +1,1 @@
+google_ad_client = "pub-7589592039226467";/* 300x250, daytoday 2 */google_ad_slot = "6085024872";google_ad_width = 300;google_ad_height = 250;//

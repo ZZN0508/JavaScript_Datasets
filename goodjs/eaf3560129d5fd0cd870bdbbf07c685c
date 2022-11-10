@@ -1,0 +1,1 @@
+window.___gcfg = {'lang': 'vi'};

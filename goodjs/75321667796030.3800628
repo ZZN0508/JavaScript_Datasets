@@ -1,0 +1,1 @@
+var _tcaq=_tcaq||[];!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"==document.location.protocol?"https":"http")+"://production-cdn.lift.acquia.com/"+window.AcquiaLift.account_id+"/lift-capture.min.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(t,c)}();

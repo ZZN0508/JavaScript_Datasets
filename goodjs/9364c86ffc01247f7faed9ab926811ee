@@ -1,0 +1,1 @@
+rakuten_design="slide";rakuten_affiliateId="15b71738.c0146203.15b71739.6f157492";rakuten_items="ranking";rakuten_genreId=0;rakuten_size="160x600";rakuten_target="_blank";rakuten_theme="gray";rakuten_border="on";rakuten_auto_mode="on";rakuten_genre_title="off";rakuten_recommend="on";rakuten_pointbackId = "_RTmtlk20010075"

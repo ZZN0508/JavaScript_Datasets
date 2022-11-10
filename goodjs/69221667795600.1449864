@@ -1,0 +1,1 @@
+_satellite.__registerScript("https://assets.adobedtm.com/331fbea29f79/8f42148123cf/441551baaf47/RC7fbaa6b08f1042e0a517882dbf72fa8e-source.min.js",'document.body.dispatchEvent(new CustomEvent("c-tracking-log-dom",{bubbles:!0,detail:{initTimeout:0,spaTimeout:0,eventMethod:"targetUpdate"}}));');

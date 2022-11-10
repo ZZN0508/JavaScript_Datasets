@@ -1,0 +1,1 @@
+            (function($) {                $(function() {                    $('#slideshow').cycle({                        fx:     'scrollHorz',                        timeout: 7000,                        next:   '#rarr',                        prev:   '#larr'                    });                })            })(jQuery)        

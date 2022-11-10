@@ -1,0 +1,1 @@
+google_ad_client = "ca-pub-6727919198158646";/* Top Bar Banner Size */google_ad_slot = "0696252726";google_ad_width = 468;google_ad_height = 60;//

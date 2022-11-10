@@ -1,0 +1,1 @@
+define(["./store","local/common/components/nsglibCommon","local/common/components/timeFilter"],function(o,n,e){var c=o.getSubscribers(),e=e.createFilterMaxTimeEvent(250,800,function(){for(var o in c)c[o].callback()});setTimeout(function(){for(var o in c)c[o].callback()},250),n.domBuilder.addEvent(window,"scroll",e)});

@@ -1,0 +1,1 @@
+var r=class{constructor(t,e,o){this.name=t,this.api=e,this.hostname=o}logo(t){throw new Error("Not Implemented")}homepage(t){throw new Error("Not Implemented")}};export{r as a};

@@ -1,0 +1,1 @@
+define(["./manager","./store"],function(t,a){var n;(n=new t("lazyLoad")).addSubscriber(function(){if(0!==Object.keys(n.state).length)for(var t in n.state){var e;"counter"===t||n.state[t].state.active||(e=parseInt(n.state[t].marginPreload,10)+n.windowHeight,n.state[t].domElement.getBoundingClientRect().top<=e&&(n.state[t].callback(),a.setActive(n.state[t],!0)))}})});

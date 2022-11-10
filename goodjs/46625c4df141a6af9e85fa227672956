@@ -1,0 +1,1 @@
+HTMLNODE.className += ' widthauto'

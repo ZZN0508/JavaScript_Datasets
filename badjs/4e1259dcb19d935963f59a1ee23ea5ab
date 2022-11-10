@@ -1,0 +1,1 @@
+document.write ('<center><iframe width="120"  height="240" src="http://ads.rzb.ir/image.php?size_id=7" border="0" scrolling="no" frameborder="0" marginheight="0"  marginwidth="0" vspace="0" hspace="0"></iframe>');

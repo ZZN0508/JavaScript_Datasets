@@ -1,0 +1,1 @@
+/* <![CDATA[ */var PPS = {"ajaxurlPps":"https:\/\/www.theairbornetoxicevent.com\/wp-admin\/admin-ajax.php"};/* ]]> */

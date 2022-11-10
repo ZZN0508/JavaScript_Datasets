@@ -1,0 +1,1 @@
+define(["require","exports"],function(E,e){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.RegisterFormEvent=void 0,(e=e.RegisterFormEvent||(e.RegisterFormEvent={})).GOOGLE_REGISTER_CLICK="GOOGLE_REGISTER_CLICK",e.GOOGLE_REGISTER_SUCCESS="GOOGLE_REGISTER_SUCCESS",e.REGISTER_CLICK="REGISTER_CLICK",e.REGISTER_IMMEDIATE_SUCCESS="REGISTER_IMMEDIATE_SUCCESS"});

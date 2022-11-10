@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["6NeHQy",(e,t)=>{"use strict";var n,a,r,s=0,i=t=>{var n=s;return r.add(n),s++,a.then(e=>{r.has(n)&&t(e)}),n},l=e=>{r.delete(e)};return[()=>{a="undefined"==typeof window?new Promise(()=>{}):n.getFirstConsistentlyInteractive({}),r=new Set,e({cancelTTICallback:l,requestTTICallback:i})},[e=>n=e.default]]},["NJheb1"]]);

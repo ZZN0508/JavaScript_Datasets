@@ -1,0 +1,1 @@
+define(["OK/LinkedHooksStore"],function(e){function t(){}var i=e.collections.ICON_REACTIONS;return t.prototype={activate:function(t){this.el=t,this.hookId=t.getAttribute("data-req"),this.refId=t.getAttribute("data-likeref"),e.add(this.refId,i,this.hookId)},deactivate:function(){e.remove(this.refId,i,this.hookId)}},t});

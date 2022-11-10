@@ -1,0 +1,1 @@
+!function(){var i=function(i){var n,o,t=i.split("&"),a={};for(o in t)a[(n=t[o].split("="))[0]]=n[1];return a}(location.search.substr(1));i.f&&"pad"==i.f||navigator.userAgent.match(/(iPhone|iPod|Android|ios)/i)&&location.replace("http://m.china.com.cn")}(window);

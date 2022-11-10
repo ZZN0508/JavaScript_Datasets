@@ -1,0 +1,1 @@
+    function sendComment() {        $('<div>').load('/ajax/game/comment', $('.form-comment').serializeArray());        $('.form-comment').html('<'+'div class="alert-success">Yorumunuz g?nderilmi?tir. Yorumunuz onay sonras? yay?nlanacakt?r.<'+'/div>');    }

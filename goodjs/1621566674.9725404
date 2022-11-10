@@ -1,0 +1,2 @@
+define(["require","exports","tslib","modules/clean/analytics","modules/core/exception","modules/clean/ux_analytics/ux_analytics"],(function(e,i,t,n,a,l){"use strict";Object.defineProperty(i,"__esModule",{value:!0}),i.initialize_module=void 0,a=t.__importStar(a),i.initialize_module=function(e){var i=e.UXAConfigs;l.UXAnalytics.initialize(n.UXAnalyticsLogger,i,(function(e){a.reportException({err:e,severity:a.SEVERITY.CRITICAL,tags:["ux_analytics"]})}))}}));
+//# sourceMappingURL=ux_analytics_pagelet.min.js-vfluKNOUD.map

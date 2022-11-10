@@ -1,0 +1,1 @@
+document.onkeyup = function(e){keyPageScroll(e, 1, 1, 'forum.php?mod=forumdisplay&fid=40&filter=&orderby=dateline&', 2);}

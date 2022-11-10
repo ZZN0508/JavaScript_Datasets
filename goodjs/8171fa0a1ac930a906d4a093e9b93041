@@ -1,0 +1,1 @@
+google_ad_client = "ca-pub-6727919198158646";/* Vertical Sidebar */google_ad_slot = "4181940066";google_ad_width = 160;google_ad_height = 600;//

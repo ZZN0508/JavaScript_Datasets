@@ -1,0 +1,1 @@
+if (rs_DLR) {	document.write(unescape("%3Cscript id='libero_tracking_js_site' src='http://digistatic.libero.it/js/comscore_8_3_04/comscore_digilander.libero.it.js'%3E%3C/script%3E"));	document.write(unescape("%3Cscript id='libero_tracking_js_site' src='http://digistatic.libero.it/js/comscore_8_3_04/comscore_engine.js'%3E%3C/script%3E"));	}

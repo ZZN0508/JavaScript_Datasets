@@ -1,0 +1,1 @@
+google_ad_client = "pub-4374748946075991";google_ad_host = "pub-1556223355139109";/* 250x250, dibuat 11/11/04 */google_ad_slot = "8219652965";google_ad_width = 250;google_ad_height = 250;//

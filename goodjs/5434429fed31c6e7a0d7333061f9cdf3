@@ -1,0 +1,1 @@
+/* <![CDATA[ */var dot_irecommendthis = {"ajaxurl":"http:\/\/www.ecafe.se\/wp-admin\/admin-ajax.php"};/* ]]> */

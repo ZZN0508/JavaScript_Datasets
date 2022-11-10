@@ -1,0 +1,1 @@
+/**/Tynt.sc({"ap":"原文網址:","st":true,"w":"ETtodaynet","f":"ETtoday","domain":"ettoday.net"})

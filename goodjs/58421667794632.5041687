@@ -1,0 +1,1 @@
+document.write('<div style="width:300px;height:440px;position:relative;z-index:1;">'),document.write('<img src="https://tx1.cdn.caijing.com.cn/ad/1535685418347570.jpg" style="border:0px;width:300px;height:440px;">'),document.write("</div>");

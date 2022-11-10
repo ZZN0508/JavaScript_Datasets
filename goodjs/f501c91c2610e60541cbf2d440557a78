@@ -1,0 +1,1 @@
+		  googletag.cmd.push(function() {		    googletag.defineSlot('/5018750/Oyunuoyna_Genel_Yapiskan', [160, 600], 'div-gpt-ad-1456148276926-0').addService(googletag.pubads());		    googletag.pubads().enableSingleRequest();		    googletag.enableServices();		  });		

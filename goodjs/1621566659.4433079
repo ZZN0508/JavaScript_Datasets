@@ -1,0 +1,2 @@
+define(["require","exports"],(function(E,e){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.RegisterFormEvent=void 0,(function(E){E.GOOGLE_REGISTER_CLICK="GOOGLE_REGISTER_CLICK",E.GOOGLE_REGISTER_SUCCESS="GOOGLE_REGISTER_SUCCESS",E.REGISTER_CLICK="REGISTER_CLICK",E.REGISTER_IMMEDIATE_SUCCESS="REGISTER_IMMEDIATE_SUCCESS"})(e.RegisterFormEvent||(e.RegisterFormEvent={}))}));
+//# sourceMappingURL=types.min.js-vflV6X4wc.map

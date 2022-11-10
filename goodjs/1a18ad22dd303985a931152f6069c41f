@@ -1,0 +1,1 @@
+var jcomments=new JComments(118, 'com_content','/index.php?option=com_jcomments&amp;tmpl=component');jcomments.setList('comments-list');//

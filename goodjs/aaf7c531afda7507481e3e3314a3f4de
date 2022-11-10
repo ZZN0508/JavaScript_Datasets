@@ -1,0 +1,1 @@
+/* <![CDATA[ */var rcGlobal = {	serverUrl		:'http://www.ihow.cn',	infoTemp		:'%REVIEWER% �� %POST%',	loadingText		:'���ڼ���',	noCommentsText	:'û���κ�����',	newestText		:'&laquo; ���µ�',	newerText		:'&laquo; ��һҳ',	olderText		:'��һҳ &raquo;',	showContent		:'1',	external		:'1',	avatarSize		:'32',	avatarPosition	:'left',	anonymous		:'����'};/* ]]> */

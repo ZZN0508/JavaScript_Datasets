@@ -1,0 +1,1 @@
+folha.shop.collection = [	{		title: "CMA Series 4" ,		link: "//www.cma.com.br/plataformas-para-investidores-nao-profissionais/" ,		image: "//f.i.uol.com.br/folha/publicidade/images/14100446.jpeg" ,		text: "O melhor sistema para investir na bolsa!" ,		fixed: "2"	}	] ;

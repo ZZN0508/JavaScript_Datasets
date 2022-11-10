@@ -1,0 +1,1 @@
+    baseLink = 'http://mackeeperapp2.mackeeper.com/landings/';    baseLinkPath = 'http://mackeeperapp2.mackeeper.com/landings/123.1/';    baseRelUrl = 'http://static.mackeeper.com/landings/123.1/?mkv=1';

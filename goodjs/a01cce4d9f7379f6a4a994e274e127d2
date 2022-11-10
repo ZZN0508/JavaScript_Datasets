@@ -1,0 +1,1 @@
+													if(document.body.clientWidth > 1180){ document.write('<li  class="atiold"><a class="res" href="/eventinfo/613396_burnley_manchester_utd/">?????? <b>0:1</b> ????????? ??</a></li>');}													

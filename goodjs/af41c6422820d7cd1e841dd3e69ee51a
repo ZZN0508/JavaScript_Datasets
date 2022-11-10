@@ -1,0 +1,1 @@
+/* <![CDATA[ */var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};/* ]]> */

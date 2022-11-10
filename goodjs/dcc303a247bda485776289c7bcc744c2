@@ -1,0 +1,1 @@
+		jQuery(document).on( 'ready post-load', function(){			jQuery( 'a.share-facebook' ).on( 'click', function() {				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );				return false;			});		});		

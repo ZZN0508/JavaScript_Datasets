@@ -1,0 +1,1 @@
+													if(document.body.clientWidth > 1280){ document.write('<li  class="atiold"><a class="res" href="/eventinfo/609182_newcastle_jets_brisbane_roar/">??????? ????? <b>1:0</b> ??????? ????</a></li>');}													

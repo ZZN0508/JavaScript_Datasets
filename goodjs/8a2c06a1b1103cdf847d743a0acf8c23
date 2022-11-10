@@ -1,0 +1,1 @@
+/* <![CDATA[ */var fm_user_I18n = {"ajaxurl":"http:\/\/uj.apertura.hu\/wp-admin\/admin-ajax.php"};/* ]]> */

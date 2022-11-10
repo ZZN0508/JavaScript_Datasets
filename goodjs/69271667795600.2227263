@@ -1,0 +1,1 @@
+_satellite.__registerScript("https://assets.adobedtm.com/331fbea29f79/8f42148123cf/441551baaf47/RC4167112770b74b8db16490d27cacee11-source.min.js",'!function(e){var t=e.createElement("script");t.src=e.location.protocol+"//tag.bounceexchange.com/1369/i.js",t.async=!0,e.getElementsByTagName("head")[0].appendChild(t)}(document),_satellite.logger.info("DTM:BounceX - Site Tag");');

@@ -1,0 +1,1 @@
+$( "#folha-shop" ).folha_shop( {    collection: folha.shop.collection} ) ;

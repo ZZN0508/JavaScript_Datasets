@@ -1,0 +1,1 @@
+$("#news aside").after( '<div class="stamp-painel_do_leitor"><a href="#article-comments"><span class="comment"><\/span><\/a><a href="http://www1.folha.uol.com.br/paineldoleitor/comentarios">Veja outros textos para visitantes <strong>comentarem<\/strong><\/a><\/div>' );

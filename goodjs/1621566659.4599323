@@ -1,0 +1,1 @@
+define([],(function(){var t=document.documentElement,n=document.body,e=t.classList,c=n.classList;return{switchScrolling:function(t){e.toggle("oh",!t)},switchLayer:function(t){c.toggle("__layer",t)}}}));

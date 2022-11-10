@@ -1,0 +1,1 @@
+var w0=1;var refR=escape(document.referrer);if (refR.length>=252) refR=refR.substring(0,252)+"...";//

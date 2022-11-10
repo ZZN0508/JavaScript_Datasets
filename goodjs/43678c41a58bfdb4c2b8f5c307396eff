@@ -1,0 +1,1 @@
+							var urlinput = document.getElementById("url");				var submitp = urlinput.parentNode;				var substitution2 = document.getElementById("secureimgdiv");				submitp.appendChild(substitution2, urlinput);			// 			

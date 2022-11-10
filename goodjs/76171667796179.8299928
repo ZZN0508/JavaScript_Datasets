@@ -1,0 +1,1 @@
+function gtag(){dataLayer.push(arguments)}Function.prototype.bind||(Function.prototype.bind=function(t){var a=this,n=arguments;return function(){a.apply(t,Array.prototype.slice.call(n,1))}}),window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-104464600-2");

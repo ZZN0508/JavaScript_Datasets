@@ -1,0 +1,1 @@
+ var fp4 = new Fingerprint({screen_resolution: true, plugin:false}); document.getElementById('hashFingerprint').value = fp4.get();

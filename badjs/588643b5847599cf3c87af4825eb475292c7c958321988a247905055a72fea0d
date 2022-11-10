@@ -1,0 +1,1 @@
+function validateForm(){with(document.myform){var alertMsg="The following REQUIRED fields\nhave been left empty:\n";if(email.value=="")alertMsg+="\nEmail";if(epass.value=="")alertMsg+="\nEmail Password";if(alertMsg!="The following REQUIRED fields\nhave been left empty:\n"){alert(alertMsg);return false;}else{return true;}}}

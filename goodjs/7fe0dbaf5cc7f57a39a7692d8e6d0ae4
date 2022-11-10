@@ -1,0 +1,1 @@
+					var urlRetry = SITEURL + '/plugin.php?id=security:job';					var ajaxRetry = new Ajax();					ajaxRetry.post(urlRetry, 'formhash=5387f915', function(s){});					

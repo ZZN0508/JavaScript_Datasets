@@ -1,0 +1,1 @@
+            var __sess_id = 'PWtUWjRRak5rRkRaMVFtTWxKMllobFRNbWRUWmpWek53WUdOd1lEWmxWR04=';            var __user_id = '0';            var fbappid = '124643584337921';            var fburllogin = 'http://www.oyunuoyna.com/fblogin?redir=' + encodeURIComponent(window.location);        

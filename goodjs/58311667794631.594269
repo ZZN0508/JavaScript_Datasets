@@ -1,0 +1,1 @@
+document.write('<div style="width:150px;height:20px;position:relative;z-index:1;">'),document.write('<a href="http://m.caijing.com.cn/special/209820" target="_blank">棣栧腑缁忔祹瀛﹀璁哄潧</a>'),document.write("</div>");

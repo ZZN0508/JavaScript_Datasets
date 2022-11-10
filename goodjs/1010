@@ -1,0 +1,1 @@
+define([],function(){var o=window.document.documentElement.style,s=["webkit","ms"];function n(n){var t,r,e,i;if(n in o)return n;for(t=n.charAt(0).toUpperCase()+n.substr(1),r=0,e=s.length;r<e;r++)if((i=s[r]+t)in o)return i;return n}return{transform:n("transform"),transition:n("transition")}});

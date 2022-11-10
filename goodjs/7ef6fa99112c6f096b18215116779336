@@ -1,0 +1,1 @@
+	function RedirectURL(thisIndex)	{		if (thisIndex != -1)		{			if(document.Form1.jumpto1.options[document.Form1.jumpto1.selectedIndex].value!="0")			{				var URL = document.Form1.jumpto1.options[document.Form1.jumpto1.selectedIndex].value;				window.open(URL); 			}		}	}function Select1_onclick() {}

@@ -1,0 +1,1 @@
+/* <![CDATA[ */var et_ptemplates_strings = {"captcha":"Captcha","fill":"Fill","field":"field","invalid":"Invalid email"};/* ]]> */

@@ -1,0 +1,1 @@
+summary_noimg = 750;summary_img = 600;img_thumb_height = 150;img_thumb_width = 200; 

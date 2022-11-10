@@ -1,0 +1,1 @@
+function googleTranslateElementInit() {  new google.translate.TranslateElement({pageLanguage: 'ka', includedLanguages: 'de,en,es,fr,ru', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false, gaTrack: true, gaId: 'UA-76300014-1'}, 'google_translate_element');}

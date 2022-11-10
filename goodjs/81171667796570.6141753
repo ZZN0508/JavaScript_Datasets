@@ -1,0 +1,1 @@
+_satellite.__registerScript("https://assets.adobedtm.com/cc10f7b4369d/cb3b620b1166/ef6039176ac3/RC2cba00dae0e34354a60748ab919d7542-source.min.js",'try{var iam_data=_satellite.getVar("external.ivw.iam_data:cc");iom.h(iam_data,1)}catch(e){}');

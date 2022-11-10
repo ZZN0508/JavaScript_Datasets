@@ -1,0 +1,1 @@
+google_ad_client = "pub-2598997343223771";/* 200x200, inside article */google_ad_slot = "2519785657";google_ad_width = 200;google_ad_height = 200;//

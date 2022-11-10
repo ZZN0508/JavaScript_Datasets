@@ -1,0 +1,1 @@
+		window.WPCOM_sharing_counts = {"http:\/\/kcsportsnation.com\/2011\/12\/three-career-highs-sparks-mizzou-drubbing-on-nwern-state\/":1115};		window.WPCOM_jetpack = true;			

@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("html").attr("xmlns:og","http://opengraphprotocol.org/schema/");});

@@ -1,0 +1,1 @@
+amazon_ad_tag = "girlwithwrenc-20"; amazon_ad_width = "160"; amazon_ad_height = "600"; amazon_ad_link_target = "new"; amazon_color_link = "81100A"; amazon_color_price = "090C6E";//

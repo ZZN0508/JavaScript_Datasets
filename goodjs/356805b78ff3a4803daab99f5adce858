@@ -1,0 +1,1 @@
+$(".facebook-comments").append("<div class='fb-comments' data-href='http://www.haiduong24h.net/2014/01/tai-nan-giao-thong-tai-lo-son-ttphu-thu.html' data-width='100%' data-numposts='5' data-colorscheme='light'></div>");

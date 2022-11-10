@@ -1,0 +1,1 @@
+    var resizeJsImage = 1;    var jg_padding = 10;    var jg_dhtml_border = "#808080";    var jg_openjs_background = "#fff";    var jg_show_title_in_dhtml = 1;    var jg_show_description_in_dhtml = 1;    var jg_disableclick = 1;  

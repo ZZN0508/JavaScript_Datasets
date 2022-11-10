@@ -1,0 +1,1 @@
+			(function($){				$(document).ready( function() {					$( '#fancybox-overlay' ).css({						'width' : $(document).width()					});				});			})(jQuery);		

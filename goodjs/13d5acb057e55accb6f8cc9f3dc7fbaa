@@ -1,0 +1,1 @@
+/* <![CDATA[ */var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/easybuzz.site11.com\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_9192e058c8a3559b0090ba199433c50e"};/* ]]> */

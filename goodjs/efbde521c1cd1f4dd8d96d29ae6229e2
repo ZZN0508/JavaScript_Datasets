@@ -1,0 +1,1 @@
+window.addEvent('domready', function () {	var columnizer = new Equalizer('.top-1 .module').equalize('height');	});

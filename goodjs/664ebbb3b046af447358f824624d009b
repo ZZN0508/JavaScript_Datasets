@@ -1,0 +1,1 @@
+var rnd=Math.random();var img=new Image(); img.src='http://www.persiangig.com/pImg/?rnd=i'+rnd

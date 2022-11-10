@@ -1,0 +1,1 @@
+/* <![CDATA[ */var _wpcf7 = {"loaderUrl":"http:\/\/karya.ir\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"\u062f\u0631 \u062d\u0627\u0644 \u0627\u0631\u0633\u0627\u0644 . . ."};/* ]]> */

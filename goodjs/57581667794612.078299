@@ -1,0 +1,1 @@
+dimml.baseDynamic=function(){return"//baltar.dimml.io"},function(n){try{var c,i;void 0===window.gemius_hcconn?(c=0,i=setInterval(function(){c++,(void 0!==window.gemius_hcconn||20<=c)&&(clearInterval(i),n())},250)):n()}catch(n){}}(function(){dimml.match("*")&&dimml.send({},"static",null,"10be781209cd1e9ae1a03cc61648947a4a4837af")});

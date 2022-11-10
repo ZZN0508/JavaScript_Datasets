@@ -1,0 +1,1 @@
+    function sendComment105876Reply() {        $('<div>').load('/ajax/game/comment', $('.form-comment-105876-reply').serializeArray());        $('.form-comment-105876-reply').html('<'+'div class="bilgi" style="color:blue;text-align:center;">Cevab?n?z g?nderilmi?tir. Cevab?n?z onay sonras? yay?nlanacakt?r.<'+'/div>');    }

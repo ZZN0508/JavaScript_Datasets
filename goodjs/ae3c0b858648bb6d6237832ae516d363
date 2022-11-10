@@ -1,0 +1,1 @@
+									var vfmbox = {};			window.addEvent('domready', function(){				vfmbox = new MultiBox('vf_xmbox', {descClassName: 'vflowBoxDesc', useOverlay: true});			});									var vfmboxx = {};			window.addEvent('domready', function(){				vfmboxx = new MultiBox('vf_xmboxx', {descClassName: 'vflowTboxDesc', useOverlay: true});			});			

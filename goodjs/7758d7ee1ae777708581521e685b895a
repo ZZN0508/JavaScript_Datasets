@@ -1,0 +1,1 @@
+ if ( self != top ) {   if ( window.location.href.replace )      top.location.replace ( self.location.href );   else      top.location.href=self.document.href; }

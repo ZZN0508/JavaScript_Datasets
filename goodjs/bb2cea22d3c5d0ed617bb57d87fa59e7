@@ -1,0 +1,1 @@
+var myLoc = location.href.toString();if (myLoc == "http://kavs24.ru/tickets-avia/returns-exchanges" || myLoc == "http://kavs24.ru/tickets-avia/returns-exchanges") {  location = "http://kavs24.ru/tickets-avia/returns-exchanges#request=findticketspass&subsystem=avia&/";}

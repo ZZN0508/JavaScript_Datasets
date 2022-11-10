@@ -1,0 +1,1 @@
+var disqus_url = "http://acuitydemo.tumblr.com/post/59132835319"; var disqus_title ="";

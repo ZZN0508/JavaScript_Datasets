@@ -1,0 +1,1 @@
+ad_client = 'd709e2a5-f0e1-440e-b84d-e101eca27124';ad_format = '3';ad_width = 800;ad_height = 30;//

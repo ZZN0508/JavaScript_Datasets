@@ -1,0 +1,1 @@
+/* <![CDATA[ */var fcn_global_data = {"ajaxurl":"http:\/\/mafiahousepromo.com\/wp-admin\/admin-ajax.php","permalink":"http:\/\/mafiahousepromo.com\/vaig\/"};/* ]]> */

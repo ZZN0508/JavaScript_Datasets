@@ -1,0 +1,1 @@
+(function(){function a(a,b,d){a&&!c&&(c=!0,b===window.location.href&&(b="[rendered html]"),$.get("/log/jserr.php",{msg:a,file:b,line:d}),c=!1)}var c=!1;window.onerror=a;$(function(){window.onerror=a})})();

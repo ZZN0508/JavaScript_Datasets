@@ -1,0 +1,1 @@
+document.write('<div style="width:150px;height:20px;position:relative;z-index:1;">'),document.write('<a href="http://wine.caijing.com.cn" target="_blank"><font color=red>涓浗钁¤悇閰�</font></a>'),document.write("</div>");

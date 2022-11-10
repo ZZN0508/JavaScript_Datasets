@@ -1,0 +1,1 @@
+	folha.information.section = "mercado" ;	// Advertising	folha.information.channel = "mercado" ; 			// Omniture			folha.information.page.channel = "Mercado" ;			folha.information.page.subchannel = "(none)" ;		folha.information.page.title = "Receita vai apertar o cerco contra encomendas em sites no exterior" ;	folha.information.page.type = "noticias" ;	

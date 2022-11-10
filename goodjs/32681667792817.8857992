@@ -1,0 +1,1 @@
+!function(){var t="",t=-1!=location.protocol.indexOf("https")?"https://account.sogou.com/static":"http://s.account.sogoucdn.com/u";void 0!==window.__sogoujsStartLoading&&(window.__sogoujsStartLoading=+new Date),document.write('<script type="text/javascript" src="'+t+'/api/sogou.js?t=2017110901" async><\/script>')}();

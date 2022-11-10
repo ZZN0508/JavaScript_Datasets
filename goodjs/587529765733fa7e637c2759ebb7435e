@@ -1,0 +1,1 @@
+$( "section.ads-livrariadafolha.article" ).bookstore( {	json: "folha-mercado-article.json"} ) ;

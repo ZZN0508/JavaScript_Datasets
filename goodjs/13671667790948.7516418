@@ -1,0 +1,1 @@
+!function(){var e,t,n;n={},(t=document.getElementsByTagName("head"))&&t.length&&(e=t[0],(t=document.createElement("script")).src="https://assets.alicdn.com/g/big-brother/sentry/2.x/index.js",t.crossOrigin="anonymous",t.addEventListener("load",function(){var e=window.BigBrother;e&&(e.performance.autoReport(),e.api.autoReport())}),e.appendChild(t))}();

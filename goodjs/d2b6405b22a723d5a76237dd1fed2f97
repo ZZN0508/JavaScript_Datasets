@@ -1,0 +1,1 @@
+$(document).ready(function(){               $('#insta').contents().find('a').click(function(event) {            alert("demo only");            event.preventDefault();        }); });

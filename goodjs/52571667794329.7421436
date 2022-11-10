@@ -1,0 +1,1 @@
+$(window).scroll(function(){var s=$(window).scrollTop();1100<=s&&$(".share-buttons svg").addClass("active"),2300<=s&&$(".follow-buttons svg").addClass("active"),4100<=s&&$(".related-posts svg").addClass("active"),5700<=s&&$(".email-collection svg").addClass("active"),7500<=s&&$(".link-promotion svg").addClass("active")});

@@ -1,0 +1,1 @@
+		jQuery(document).on( 'ready post-load', function(){			jQuery( 'a.share-twitter' ).on( 'click', function() {				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );				return false;			});		});		

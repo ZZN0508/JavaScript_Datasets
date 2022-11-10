@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){  $("a[rel*=lightbox]").colorbox({opacity:0.8,current:"  {current} / {total}",slideshow:true,slideshowAuto:false,slideshowSpeed:3000,slideshowStart:"start",slideshowStop:"stop"});});

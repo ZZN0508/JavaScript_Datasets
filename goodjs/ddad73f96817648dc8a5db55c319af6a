@@ -1,0 +1,1 @@
+		jQuery(document).on( 'ready post-load', function(){			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {				window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );				return false;			});		});		

@@ -1,0 +1,1 @@
+ function lkjasdfljkzlkjsadflkjzkjxhrkalrh() { $.post("https://www.HugeDomains.com/rjs/profileCouponAug2014.cfm", $("#discountProfileFormTwo").serialize()) .done(function(data) { }); return true; } lkjasdfljkzlkjsadflkjzkjxhrkalrh(); 

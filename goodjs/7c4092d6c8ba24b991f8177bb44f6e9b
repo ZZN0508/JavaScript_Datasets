@@ -1,0 +1,1 @@
+stLight.options({publisher:'8c82bdef-1841-43db-b3c0-3d44f77bf9f8'});var st_type='wordpress3.0.1';

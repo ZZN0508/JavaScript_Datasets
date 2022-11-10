@@ -1,0 +1,1 @@
+google_ad_client = "ca-pub-1737393943721553";google_ad_host = "pub-1556223355139109";/* informata24h_sidebartab1_AdSense1_300x600_as */google_ad_slot = "9405950622";google_ad_width = 300;google_ad_height = 600;//

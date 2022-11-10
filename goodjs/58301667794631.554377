@@ -1,0 +1,1 @@
+document.write('<div style="width:150px;height:20px;position:relative;z-index:1;">'),document.write('<a href="http://www.caijing.com.cn/qqjingji2021/" target="_blank">2021鍏ㄧ悆缁忔祹澶嶈嫃锛�</a>'),document.write("</div>");

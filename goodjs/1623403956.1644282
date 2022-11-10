@@ -1,0 +1,1 @@
+window.marketing_config=JSON.parse('{\u000A  \u0022disqus_domain\u0022:\u0022disqus.com\u0022,\u000A  \u0022is_private\u0022:false\u000A}');

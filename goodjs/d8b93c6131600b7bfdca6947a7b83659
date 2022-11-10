@@ -1,0 +1,1 @@
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html');    

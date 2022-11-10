@@ -1,0 +1,1 @@
+ $(document).ready(function() { $("div.scrollable").scrollable({		size: 3,		items: '#thumbs',   		hoverClass: 'hover',		speed: 400,		keyboard: false,		clickable: false	}).navigator();		    		});

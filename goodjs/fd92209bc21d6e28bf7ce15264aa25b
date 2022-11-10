@@ -1,0 +1,1 @@
+SHARETHIS.addEntry({ title: "Baker takes the therapy dog test", url: "http://laurelhuntbooks.com/?p=1110" });

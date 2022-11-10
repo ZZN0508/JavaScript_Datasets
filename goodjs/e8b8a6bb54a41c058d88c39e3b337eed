@@ -1,0 +1,1 @@
+			window.addEvent('load', function(){				var erelated_5a64cfc21f3fc = new Tips($$('.erelated_5a64cfc21f3fc'), {					showDelay: 0,					hideDelay: 0,					className: 'erelated_5a64cfc21f3fc'				});			});			

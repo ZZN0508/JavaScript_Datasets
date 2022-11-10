@@ -1,0 +1,1 @@
+var fadeimages = new Array();fadeimages[0]=["images/flash/_Grand Aspen Summer.jpg", "http://alternate.com.s90284.gridserver.com/index.php?file=contact", ""];

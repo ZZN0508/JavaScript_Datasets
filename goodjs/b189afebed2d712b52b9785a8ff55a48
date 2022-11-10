@@ -1,0 +1,1 @@
+var dinited = 0;var dinitedlong = 0;var dactiv = 1;function initd(){dinited = 1;}function initdlong(){dinitedlong = 1;}setTimeout(initd, 5000);setTimeout(initdlong, 300000);

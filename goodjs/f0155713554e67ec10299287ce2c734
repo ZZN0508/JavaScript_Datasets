@@ -1,0 +1,1 @@
+window.addEvent("domready", function() {	var JTooltips = new Tips($$(".hasTip"), { maxTitleChars: 50, fixed: false});});  

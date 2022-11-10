@@ -1,0 +1,1 @@
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'es', autoDisplay: false}, 'google_translate_element2');}

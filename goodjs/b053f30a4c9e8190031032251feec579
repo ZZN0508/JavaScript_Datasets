@@ -1,0 +1,1 @@
+function checkIP(d){'AU,US,BE,GB,DE,DK,CA,NL,NZ,FR,SE,ZA,NO,CH,IS'.split(',').forEach(function(i){i == d.country && player.destroy();})}

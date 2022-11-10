@@ -1,0 +1,1 @@
+var len=$(".scrollBanner > ul >li").length;1<len?jQuery(".scrollBanner").slide({mainCell:"ul",autoPage:!0,effect:"topLoop",autoPlay:!0}):jQuery(".scrollBanner").slide({mainCell:"ul",autoPage:!0,effect:"topLoop",autoPlay:!1}),$.each($(".adTips"),function(){0<=$(this).text().indexOf("骞垮憡")?$(this).show():$(this).hide()});

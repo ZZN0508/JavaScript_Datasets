@@ -1,0 +1,1 @@
+YUI.add("escape",function(e,r){var t={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#x27;","/":"&#x2F;","`":"&#x60;"},n={html:function(e){return(e+"").replace(/[&<>"'\/`]/g,n._htmlReplacer)},regex:function(e){return(e+"").replace(/[\-$\^*()+\[\]{}|\\,.?\s]/g,"\\$&")},_htmlReplacer:function(e){return t[e]}};n.regexp=n.regex,e.Escape=n},"3.12.0",{requires:["yui-base"]});

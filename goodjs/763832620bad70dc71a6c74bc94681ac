@@ -1,0 +1,1 @@
+folha.toolbar.readspeaker( "http://tools.folha.com.br/print?url=http://www1.folha.uol.com.br/mercado/2015/05/1633172-varejistas-mantem-investimentos-em-2015-apesar-da-crise.shtml" ) ;

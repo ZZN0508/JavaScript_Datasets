@@ -1,0 +1,1 @@
+		var _sf_async_config = _sf_async_config || {};		/** CONFIGURATION START **/		_sf_async_config.uid = 50059;		_sf_async_config.domain = 'folha.com.br';		_sf_async_config.topStorageDomain = 'uol.com.br';		_sf_async_config.useCanonical = true;		_sf_async_config.flickerControl = false;		/** CONFIGURATION END **/		var _sf_startpt = (new Date()).getTime();	

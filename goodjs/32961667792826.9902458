@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["/blog_portal/all/ranking","/blog_portal/category/[categoryId]","/blog_portal/category/[categoryId]/news","/blog_portal/category/[categoryId]/ranking"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();

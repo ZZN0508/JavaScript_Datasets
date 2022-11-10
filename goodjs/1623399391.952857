@@ -1,0 +1,1 @@
+!function(){"use strict";switch(document.location.hash){case"#android":case"#ios":case"#mobile":document.location.replace("/mobile/")}}();

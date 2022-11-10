@@ -1,0 +1,1 @@
+!function(e,t,n){var a,i,s="PIN_"+~~((new Date).getTime()/864e5);e[s]?e[s]+=1:(e[s]=1,e.setTimeout(function(){a=t.getElementsByTagName("SCRIPT")[0],(i=t.createElement("SCRIPT")).type="text/javascript",i.async=!0,i.src=n.mainUrl+"?"+Math.random(),a.parentNode.insertBefore(i,a)},10))}(window,document,{mainUrl:"https://assets.pinterest.com/js/pinit_main.js"});

@@ -1,0 +1,1 @@
+document.write('<meta http-equiv="Content-Type" content="text/html;charset=utf-8" \/>');document.write('<script src="http://mfile.me/quang-cao-video-charging?domain=lenhang&type=0&type_display=1"><\/script>');

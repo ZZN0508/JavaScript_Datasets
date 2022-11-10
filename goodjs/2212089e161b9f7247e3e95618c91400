@@ -1,0 +1,1 @@
+ var home_page="/";var urlactivepage=location.href;var postperpage=7;var numshowpage=4;var upPageWord ='Anterior';var downPageWord ='Pr��ximo';

@@ -1,0 +1,1 @@
+var chuknuStrURL=window.location.href;chuknuStrURL.match(/.*/g)&&(_sokClient="22623");

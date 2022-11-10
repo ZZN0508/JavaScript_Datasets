@@ -1,0 +1,1 @@
+window.byted_acrawler.init({aid:3436,dfp:!0,boe:!1,intercept:!0,enablePathList:["^/api"],urlRewriteRules:[]}),function(e,t){function a(){a.q.push(arguments)}e.TeaAnalyticsObject=t,e[t]||(a.q=a.q||[],e[t]=a),e[t].l=+new Date}(window,"collectEvent");var DATA={data:{}};

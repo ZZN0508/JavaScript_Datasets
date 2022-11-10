@@ -1,0 +1,2 @@
+System.register(["./chunk-vendor.js"],(function(){"use strict";var t,e;return{setters:[function(r){t=r.a,e=r.o}],execute:function(){t("click",".js-toggler-target-off",(t=>{if(0!==t.button)return;const e=t.currentTarget.closest(".js-toggler-container");e&&e.classList.remove("on")}));const r=new IntersectionObserver((t=>{for(const e of t)e.isIntersecting?e.target.removeAttribute("tabindex"):e.target.setAttribute("tabindex","-1")}),{rootMargin:"0% 0% 0% 0%",threshold:0});e(".js-home-repo-card",(t=>{r.observe(t)}))}}}));
+//# sourceMappingURL=home-d8fc6ed9.js.map

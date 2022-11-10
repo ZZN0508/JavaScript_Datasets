@@ -1,0 +1,1 @@
+function openWin_AllSearch(){	var url = "/Modules/Other/Search/?SearchKey="+ escape(trim(document.Form1.SearchKey.value)) +"&SearchType=-1";	var popup = window.open(url,'');	return;}

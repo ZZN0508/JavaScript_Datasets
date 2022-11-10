@@ -1,0 +1,1 @@
+											VK.Widgets.Like("vk_like", {type: "mini", height: 20});											

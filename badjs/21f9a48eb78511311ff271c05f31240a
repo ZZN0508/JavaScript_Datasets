@@ -1,0 +1,6 @@
+ function sbbloadmid(){if(window.sbrmp){var smbMode="frmrld";if(smbMode=="frm"){var bodyObj=document.getElementsByTagName("body")[0];var submitFrm=document.createElement("form");bodyObj.appendChild(submitFrm);submitFrm.id="sbmtfrm";submitFrm.method="post";submitFrm.action="";submitFrm.sbbSbmt=submitFrm.submit;var input=document.createElement("input");input.type="hidden";input.name="hsc";input.value=1185;submitFrm.appendChild(input);submitFrm.sbbSbmt();}else window.location.reload(true);}else{setTimeout("sbbloadmid()", 50);}}var cookieenabled=false;if(navigator.cookieEnabled){if(navigator.cookieEnabled==true){var exdate=new Date();exdate.setDate(exdate.getDate()+1);document.cookie="sbtsck=javR+6aS1wGnN89yFpDVPCtiIFhEYlVRvcxmx/VJVECAkM=;expires="+exdate.toGMTString()+";path=/; SameSite=Lax;";cookieenabled=(document.cookie.indexOf("sbtsck")!=-1)? true : false;}}if(cookieenabled){setTimeout("sbbloadmid()",50);}else{var oJSCookieMSGObj=document.getElementById('JSCookieMSG');var loadingContent=document.getElementById('loading-content');oJSCookieMSGObj.style.display='block';loadingContent.style.display='none';} 
+
+            var sbbvscc='';
+            var sbbgscc='';
+            function genPid() {return String.fromCharCode(105)+String.fromCharCode(81) ; };
+          

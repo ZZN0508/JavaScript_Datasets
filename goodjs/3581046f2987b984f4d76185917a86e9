@@ -1,0 +1,1 @@
+var $pageInfo = { publishmentSystemID : 109, channelID : 111, contentID : 267, siteUrl : "http://www.jhanlian.com.cn", homeUrl : "http://www.jhanlian.com.cn/center", currentUrl : "http://www.jhanlian.com.cn/content/gzdt/201504/267.html", rootUrl : "http://wwww.zjtu.edu.cn", apiUrl : "http://wwww.zjtu.edu.cn" }

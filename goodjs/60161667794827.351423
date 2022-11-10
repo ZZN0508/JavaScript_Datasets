@@ -1,0 +1,1 @@
+define("modules/helpers/dateHelper",[],function(){return{getCurrentDate:function(){return new Date},getDateByMS:function(e){return new Date(e)},addHours:function(e,t){return e?this.getDateByMS(e.getTime()+60*t*60*1e3):null}}});

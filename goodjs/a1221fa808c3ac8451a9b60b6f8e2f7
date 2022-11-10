@@ -1,0 +1,1 @@
+/* <![CDATA[ */var codepeople_search_in_place = {"more":"More Results","empty":"0 results","char_number":"3","root":"http:\/\/kcsportsnation.com\/wp-admin\/","home":"http:\/\/kcsportsnation.com"};/* ]]> */

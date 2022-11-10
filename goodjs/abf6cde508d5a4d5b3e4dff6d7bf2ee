@@ -1,0 +1,1 @@
+google_ad_client = "ca-pub-2395145173599929";/* q-trading-1 */google_ad_slot = "9136380098";google_ad_width = 200;google_ad_height = 200;//

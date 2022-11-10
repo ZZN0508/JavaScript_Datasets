@@ -1,0 +1,1 @@
+	function showhide(){		var shortid=document.getElementById('short_id').style.display;			if(shortid=='block') {				document.getElementById('short_id').style.display='none';				document.getElementById('long_id').style.display='block';			} 	}

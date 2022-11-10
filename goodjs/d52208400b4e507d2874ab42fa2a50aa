@@ -1,0 +1,1 @@
+        alertManager.init(            alertsTranslates,            1,            (typeof lang_param !== 'undefined') ? lang_param : null        );    

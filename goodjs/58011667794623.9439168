@@ -1,0 +1,1 @@
+var StorageConstant={History:{Price:"his_prices",PriceOld:"his_price_ls",Badge:"his_badges",Update:"his_updated",Disabled:"his_disabled",Migrated:"his_migrated",Merged:"his_merged",Push:"his_push"}},LocalStorageEnabled="undefined"!=typeof localStorage&&"localStorage"in window&&null!==window.localStorage;

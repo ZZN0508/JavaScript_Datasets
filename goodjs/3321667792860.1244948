@@ -1,0 +1,1 @@
+YUI.add("af-applet-headerview",function(e){"use strict";e.namespace("Af").AppletHeaderView=e.Base.create("AfAppletHeaderView",e.Af.AppletView,[],{autoRender:!1})},"@VERSION@",{requires:["af-applet-view","stencil-selectbox"]});

@@ -1,0 +1,1 @@
+google_ad_client="pub-0762321716095197";google_ad_host="pub-1556223355139109";google_ad_width=200;google_ad_height=90;google_ad_format="200x90_0ads_al_s";google_ad_host_channel="0001";google_color_border="FFFFCC";google_color_bg="99FFFF";google_color_link="669933";google_color_url="66FF66";google_color_text="663399";//

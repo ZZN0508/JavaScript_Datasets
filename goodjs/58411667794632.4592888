@@ -1,0 +1,1 @@
+document.write('<div style="width:645px;height:90px;position:relative;z-index:1;">'),document.write('<a href="http://comments.caijing.com.cn/economist/" target="_blank"><img src="https://tx1.cdn.caijing.com.cn/ad/1535688171307759.jpg" style="border:0px;width:645px;height:90px;"></a>'),document.write("</div>");

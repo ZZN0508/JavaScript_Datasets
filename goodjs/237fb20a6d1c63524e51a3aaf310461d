@@ -1,0 +1,1 @@
+function loginform(){$('#bugoverlay').fadeIn(); $.post('/ajax/login.php', { lng: 'ru' }, function(data){ $('#lgfrm').html(data).show(); }); return false;}

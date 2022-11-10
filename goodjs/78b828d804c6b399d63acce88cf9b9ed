@@ -1,0 +1,1 @@
+            var Acuity = window.Acuity || {};                    Acuity.showFlickrPhotos = true;            Acuity.showDribbbleShots = true;                    Acuity.flickrID = '64841007@N03';            Acuity.dribbbleUsername = 'mooshmassacre';        

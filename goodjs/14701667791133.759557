@@ -1,0 +1,1 @@
+!function(e,t,n,s,a,r,c){c=+new Date,e[s]=e[s]||function(){(e[s].q=e[s].q||[]).push(arguments)},e[s].t=c,e[s].n=s,(a=t.createElement(n)).src="https://t.effectivemeasure.net/tag"+(e.addEventListener?".":"_.")+"js?"+parseInt(c/1e9,10),a.async=1,(r=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,r)}(window,document,"script","_em");

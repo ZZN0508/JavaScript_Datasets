@@ -1,0 +1,1 @@
+/* <![CDATA[ */var sidebar_login_params = {"ajax_url":"http:\/\/gamedrunk.com\/wp-admin\/admin-ajax.php","force_ssl_admin":"0","is_ssl":"0","i18n_username_required":"Please enter your username","i18n_password_required":"Please enter your password","error_class":"sidebar_login_error"};/* ]]> */

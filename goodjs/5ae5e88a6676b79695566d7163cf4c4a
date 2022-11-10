@@ -1,0 +1,1 @@
+		jwplayer('player').setup({			image: "http://img.by/i/RsHdx.jpg",			file: "https://gogaggg.box.com/shared/static/zluvuflbjmsylkaocihp.flv",			skin: "glow",			width: "100%",			aspectratio: "16:9",});

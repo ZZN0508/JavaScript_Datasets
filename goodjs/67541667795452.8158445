@@ -1,0 +1,1 @@
+_satellite.__registerScript("https://assets.adobedtm.com/bb77750356fd/42bfe6bcc850/7ff89b7f1a62/RCa62cf262b42847da80a8bed0c49701f3-source.min.js",'!function(){if("function"==typeof fbq){var e=document.querySelector("html.logged-in--false")?0:1;fbq("trackCustom","ViewPaywall",{meter_count:e})}}();');

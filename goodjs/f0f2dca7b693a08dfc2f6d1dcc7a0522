@@ -1,0 +1,1 @@
+window.ec = window.ec || Object();window.ec.config = window.ec.config || Object();window.ec.config.enable_canonical_urls = true;

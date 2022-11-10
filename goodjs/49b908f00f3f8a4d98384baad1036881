@@ -1,0 +1,1 @@
+     try{         Umobi.AdView({            pub:"buxin@cewekmulusText",            format_type:Umobi.AdFormatType.BANNER        });     }catch(e){}

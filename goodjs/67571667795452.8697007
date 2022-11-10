@@ -1,0 +1,1 @@
+_satellite.__registerScript("https://assets.adobedtm.com/bb77750356fd/42bfe6bcc850/7ff89b7f1a62/RCc7b4ff165fc44254a2a2b28b3f7c7061-source.min.js",'var s,r,t;r=!1,(s=document.createElement("script")).type="text/javascript",s.src="/rumtag/rumtag.js",(t=document.getElementsByTagName("script")[0]).parentNode.insertBefore(s,t);');

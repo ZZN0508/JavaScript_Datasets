@@ -1,0 +1,1 @@
+window.onload=function(){enableTooltips("calcList")};imgBT=new Image();imgBT.src='http://4.bp.blogspot.com/-WQzi5hugHT8/TsEgEpZVEbI/AAAAAAAAAHs/Vq8oZLnRTVw/s1600/noimage.jpg';

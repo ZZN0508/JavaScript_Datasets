@@ -1,0 +1,1 @@
+	if (isTargetToRedirectMobilePage()) {		document.location.replace('http://m.cafe.daum.net');	}    function isTargetToRedirectMobilePage() {        var uri = window.location.pathname;        return !(getCookie("M_P2M") || !checkMobileUserAgent() || uri.indexOf("/_c21_/mymsgbox_main") > -1);    }

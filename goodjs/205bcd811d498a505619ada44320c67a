@@ -1,0 +1,1 @@
+function dostaction(action){        var dataString = "action=" + action;        $.ajax        ({          type: "POST",          url: "/logging.php",          data: dataString,          success: function(html)          {          }        });}

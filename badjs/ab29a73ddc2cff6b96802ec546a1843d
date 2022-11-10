@@ -1,0 +1,1 @@
+							var RndNum4NoCash = Math.round(Math.random() * 1000000000);							document.write(							'<iframe src="//ads.livetvcdn.net/getbanner.php'							+ '?zone_id=3&rnd=' + RndNum4NoCash							+ '" frameborder=0 vspace=0 hspace=0 width=240 height=400'							+ ' marginwidth=0 marginheight=0 scrolling=no></iframe>');												

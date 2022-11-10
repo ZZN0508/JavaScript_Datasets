@@ -1,0 +1,1 @@
+!function(){var e=document.createElement("ins");e.id="yoneads109332",document.body.appendChild(e);var t=document.createElement("script");t.src="//img.ak.impact-ad.jp/ic/pone/tags/0114/109332_8.js",t.type="text/javascript",e.appendChild(t)}();

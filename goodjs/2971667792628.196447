@@ -1,0 +1,1 @@
+YUI.add("querystring-stringify-simple",function(o,r){var n=o.namespace("QueryString"),u=encodeURIComponent;n.stringify=function(r,n){var e,i,s,a=[],t=!(!n||!n.arrayKey);for(e in r)if(r.hasOwnProperty(e))if(o.Lang.isArray(r[e]))for(i=0,s=r[e].length;i<s;i++)a.push(u(t?e+"[]":e)+"="+u(r[e][i]));else a.push(u(e)+"="+u(r[e]));return a.join("&")}},"3.12.0",{requires:["yui-base"]});

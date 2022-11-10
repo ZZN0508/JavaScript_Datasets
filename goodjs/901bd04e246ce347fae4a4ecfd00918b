@@ -1,0 +1,1 @@
+var bt_counter_type=2;var bt_project_id=37711;var bt_manc='000000';var bt_manf='000000';var bt_minc='FFFFFF';var bt_minf='FFFFFF';var bt_brdc='000000';

@@ -1,0 +1,1 @@
+	_stq = window._stq || [];	_stq.push([ 'view', {v:'ext',j:'1:3.6',blog:'31915912',post:'1115',tz:'-6',srv:'kcsportsnation.com'} ]);	_stq.push([ 'clickTrackerInit', '31915912', '1115' ]);

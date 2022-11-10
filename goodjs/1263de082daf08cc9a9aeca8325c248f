@@ -1,0 +1,1 @@
+var domain='@ostrov-evropa.com';function ShowMail(){for(i=0; i<document.links.length; i++){        m=document.links[i];    if (m.href.substr(0,7)=='mailto:' && m.title){m.href='mailto:'+m.title+domain;m.appendChild( document.createTextNode( m.title+domain ) );        m.title='';        }       }}window.onload=ShowMail;//

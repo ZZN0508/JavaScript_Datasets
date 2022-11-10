@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["gGW5sO",(e,r)=>{"use strict";var o,t,d=e=>btoa(String.fromCharCode.apply(null,o.encode(e))),n=e=>t.decode(Uint8Array.from(atob(e),e=>e.charCodeAt(0)));return[()=>{o=new TextEncoder,t=new TextDecoder,e({decode:n,encode:d})},[]]},[]]);

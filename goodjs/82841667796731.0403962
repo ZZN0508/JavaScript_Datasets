@@ -1,0 +1,1 @@
+!function(){var e,r=window.location.href,o=document.referrer;/([http|https]:\/\/[a-zA-Z0-9\_\.]+\.baidu\.com)/gi.test(r)||(e="//api.share.baidu.com/s.gif",o?(e+="?r="+encodeURIComponent(document.referrer),r&&(e+="&l="+r)):r&&(e+="?l="+r),(new Image).src=e)}(window);

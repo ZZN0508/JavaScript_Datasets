@@ -1,0 +1,1 @@
+/* <![CDATA[ */var alm_localize = {"ajaxurl":"http:\/\/www.ecafe.se\/wp-admin\/admin-ajax.php","alm_nonce":"c2509f107a","pluginurl":"http:\/\/www.ecafe.se\/wp-content\/plugins\/ajax-load-more","scrolltop":"false"};/* ]]> */

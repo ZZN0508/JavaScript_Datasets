@@ -1,0 +1,1 @@
+         function ClickJackFbHide(){            jQuery("div[id^=\'clickjack-button-wrapper\']").hide();         }         function ClickJackFbShow(){            jQuery("div[id^=\'clickjack-button-wrapper\']").show();         }    

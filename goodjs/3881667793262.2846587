@@ -1,0 +1,1 @@
+!function(){var n=document.querySelector("#abu-live .tv-footer .title");window.wafer&&window.wafer.ready(function(){window.wafer.on("video:mediacurrent",function(){var e=document.querySelector("#abu-live .yvp-html5-video.yvp-renderer-active");e&&e.addEventListener("click",function(){n&&n.click()})})},window)}();

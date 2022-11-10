@@ -1,0 +1,1 @@
+define(["./pushapplication"],function(n){var e=null;return{getInstance:function(){return e||(e=new n),e}}});

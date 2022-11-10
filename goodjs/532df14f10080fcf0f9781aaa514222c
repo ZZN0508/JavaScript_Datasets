@@ -1,0 +1,1 @@
+		jQuery(document).on( 'ready post-load', function(){			jQuery( 'a.share-linkedin' ).on( 'click', function() {				window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );				return false;			});		});		

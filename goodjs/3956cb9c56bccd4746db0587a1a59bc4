@@ -1,0 +1,1 @@
+													if(document.body.clientWidth > 1180){ document.write('<li  class="atiold"><a class="res" href="/eventinfo/609957_leverkusen_bayern/">????? ? <b>1:3</b> ???????</a></li>');}													

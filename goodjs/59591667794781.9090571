@@ -1,0 +1,1 @@
+dataLayer.push({event:"CookieConsentChange"}),window.blzCookieConsentFirstPageViewDebounced?(window.blzCookieConsentVirtualPageView=!0,dataLayer.push({event:"CookieConsentPageView"})):window.blzCookieConsentFirstPageViewDebounced=!0,window.blzCookieConsentChanged=!0,window.blzCookieConsentGaHasLoaded&&dataLayer.push({event:"CookieConsentGaHasLoaded"});

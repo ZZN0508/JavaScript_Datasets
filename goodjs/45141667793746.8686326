@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["-qDq4b",(e,s)=>{"use strict";var t,n,r=()=>{var{locale:{code:e}}=t.useContext(n);return"en-US"===e||"en-UK"===e};return[()=>{e("useIsMiles",r)},[e=>t=e,e=>n=e.Environment]]},["cDcdfi","2R4xv2"]]);

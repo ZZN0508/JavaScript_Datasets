@@ -1,0 +1,1 @@
+        (function(a,p,at,t,g,l,r){            var track=new Image();            track.src="https://assets.kromtech.net/pae?affid="+a+"&productId="+p+"&advertisingType="+at+"&tid="+t+"&geo="+g+"&name=View&lid="+l+"&reqid="+r;        })("mzb_251.25771052.1516251576.32.mzb","29","mzb_2321","mk_adsml_cpi_gr_jcsc;9875;727552859","US","1440", "ef95af049e12d4432202ac0285fc0159");    

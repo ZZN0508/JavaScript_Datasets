@@ -1,0 +1,1 @@
+$(document).ready(function(){var r="";$.browser.mozilla?r="mozilla":$.browser.msie?r="msie":$.browser.opera?r="opera":$.browser.webkit&&(r="webkit");var e=r?r+parseInt($.browser.version):"";r&&$("body").addClass(r),e&&$("body").addClass(e)});

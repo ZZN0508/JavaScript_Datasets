@@ -1,0 +1,1 @@
+			jQuery( document.body ).on( 'post-load', function() {				if ( 'undefined' !== typeof FB ) {					FB.XFBML.parse();				}			} );			

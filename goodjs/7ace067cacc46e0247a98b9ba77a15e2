@@ -1,0 +1,1 @@
+    (function(ac) {      var d = document, s = 'script', id = 'adplugg-adjs';      var js, fjs = d.getElementsByTagName(s)[0];      if (d.getElementById(id)) return;      js = d.createElement(s); js.id = id;      js.src = '//www.adplugg.com/apusers/serve/' + ac + '/js/1.1/ad.js';      fjs.parentNode.insertBefore(js, fjs);    }('A4821291'));

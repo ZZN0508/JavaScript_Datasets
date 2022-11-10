@@ -1,0 +1,1 @@
+/* <![CDATA[ */var polaroid_gallery = {"text2image":"Image","thumbnail":"none","image":"title3","scratches":"yes"};/* ]]> */

@@ -1,0 +1,1 @@
+function menu_display(t_id,i_id){	var t_id;	var i_id;	var on_img="/Images/arrow_bottom.gif";	var off_img="/Images/arrow_right.gif";	if (t_id.style.display == "none") 	{		t_id.style.display="";		i_id.src=on_img;	}	else	{		t_id.style.display="none";		i_id.src=off_img;	}}

@@ -1,0 +1,1 @@
+function SM(strCode) {document.getElementById ("message").value +=strCode;}

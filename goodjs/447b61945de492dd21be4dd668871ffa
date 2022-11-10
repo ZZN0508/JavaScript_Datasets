@@ -1,0 +1,1 @@
+var thumbnail_mode = "no-float" ;summary_noimg = 300;summary_img = 160;img_thumb_height = 85;img_thumb_width = 124;

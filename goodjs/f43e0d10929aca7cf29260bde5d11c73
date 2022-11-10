@@ -1,0 +1,1 @@
+	folha.information.section = "mercado" ;	// Advertising	folha.information.channel = "mercado" ; 			// Omniture			folha.information.page.channel = "Mercado" ;			folha.information.page.subchannel = "(none)" ;		folha.information.page.title = "Varejistas mant&#234;m investimentos em 2015, apesar da crise" ;	folha.information.page.type = "noticias" ;	

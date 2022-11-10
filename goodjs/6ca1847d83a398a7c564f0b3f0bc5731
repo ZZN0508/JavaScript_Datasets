@@ -1,0 +1,1 @@
+        !function(t,e,c,n){var s=e.createElement(c);s.async=1,s.src="https://script.softcube.com/"+n+"/sc.js";var r=e.scripts[0];r.parentNode.insertBefore(s,r)}(window,document,'script',"32922AD09F5449E0A00A6C726761ECA2");    

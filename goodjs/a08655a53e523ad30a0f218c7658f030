@@ -1,0 +1,1 @@
+var postminchars = parseInt('10');var postmaxchars = parseInt('10000000');var disablepostctrl = parseInt('0');var fid = parseInt('40');

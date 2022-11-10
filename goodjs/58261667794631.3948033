@@ -1,0 +1,1 @@
+var IMG_URL="http://file.caijing.com.cn/",UPLOAD_URL="http://upimages.caijing.com.cn/",APP_URL="http://app.caijing.com.cn/",WWW_URL="http://www.caijing.com.cn/",SPACE_URL="http://space.caijing.com.cn/",COOKIE_PRE="cmstop_",COOKIE_DOMAIN=".caijing.com.cn",COOKIE_PATH="/",SINA_APPKEY="3972269122",QQ_SOURCEID="1000033";

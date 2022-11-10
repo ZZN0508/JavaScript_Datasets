@@ -1,0 +1,1 @@
+/* <![CDATA[ */var lightbox_type = [""];var ajaxUrl = "http:\/\/www.mentalslavery.com\/wp-admin\/admin-ajax.php";/* ]]> */

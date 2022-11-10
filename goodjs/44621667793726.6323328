@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["kYmwth",(e,t)=>{"use strict";var u,a,r=(e,t)=>{var[r,s]=a(e);return u(()=>{var e=t(r.data);return[Object.assign({},r,{data:e}),()=>{s({requestPolicy:"network-only"})}]},[s,t,r])};return[()=>{e("default",r)},[e=>u=e.useMemo,e=>a=e.useQuery]]},["cDcdfi","5X2em-"]]);

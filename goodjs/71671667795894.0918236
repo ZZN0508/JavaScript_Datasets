@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".PL_SEARCH_CLASS").click(function(){$(".PL_SEARCH_CLASS").removeClass("hover"),$(this).addClass("hover");var t=$(this).attr("plvalue");$("#PL_WHOIES_SEARCH_IFRAME").attr("src",t)})});

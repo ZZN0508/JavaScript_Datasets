@@ -1,0 +1,1 @@
+function getTargetTime(e=8){var t=new Date,e=t-getDiffTime(t,e);return new Date(e)}function getDiffTime(e,t=8){return 60*(e.getTimezoneOffset()/-60-t)*60*1e3}function getCountDown(e){var t=(new Date).getTimezoneOffset()/-1-480,n=(new Date).getTime();return Date.parse(e)+60*t*1e3-n}

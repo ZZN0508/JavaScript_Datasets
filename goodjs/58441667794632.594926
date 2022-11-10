@@ -1,0 +1,1 @@
+document.write('<div style="width:300px;height:220px;position:relative;z-index:1;">'),document.write('<a href="http://corp.caijing.com.cn/caijingapp/app.shtml" target="_blank"><img src="https://tx1.cdn.caijing.com.cn/ad/1535889943385426.gif" style="border:0px;width:300px;height:220px;"></a>'),document.write("</div>");

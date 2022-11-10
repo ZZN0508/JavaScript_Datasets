@@ -1,0 +1,1 @@
+/* <![CDATA[ */var Gdbc = {"ajaxUrl":"http:\/\/karya.ir\/wp-admin\/admin-ajax.php","clientUrl":"http:\/\/karya.ir\/?gdbc-client=1.1.19","formFieldName":"rC-WPZ-KB-V-MHw-P-yx","shortCode":"gdbc","slug":"goodbye-captcha"};/* ]]> */

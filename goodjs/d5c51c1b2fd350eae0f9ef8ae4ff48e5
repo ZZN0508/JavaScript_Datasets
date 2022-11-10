@@ -1,0 +1,1 @@
+if (typeof jQuery == 'undefined') { document.write(unescape("%3Cscript src='/templates/ifreedom-fjt/modules/jquery171.js' type='text/javascript'%3E%3C/script%3E")); } 

@@ -1,0 +1,1 @@
+!function(){var e=new Image,n="?url="+encodeURIComponent(window.location.href);n+="&engine_key=QMWsyDDiWBTV3xZq5EMz",""!=document.referrer&&(n+="&r="+encodeURIComponent(document.referrer)),e.src="//cc.swiftype.com/cc"+n}();

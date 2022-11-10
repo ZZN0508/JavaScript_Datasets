@@ -1,0 +1,1 @@
+/* <![CDATA[ */var nectarLove = {"ajaxurl":"http:\/\/alyxgorman.com\/wp-admin\/admin-ajax.php","postID":"7","rooturl":"http:\/\/alyxgorman.com","pluginPages":[],"disqusComments":"false"};/* ]]> */

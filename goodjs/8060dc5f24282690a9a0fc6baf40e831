@@ -1,0 +1,1 @@
+													lft = document.body.clientWidth - 560;						document.write('<div class="tif" id="livescorebar" style="z-index: 1; text-align: left; width: 500px; height: 146px; left: ' + lft + 'px; display: none; position: absolute;">&nbsp;</div>');						

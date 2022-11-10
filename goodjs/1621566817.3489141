@@ -1,0 +1,3 @@
+var TIME = {_: +new Date}
+TIME.rfTime = +new Date;
+var So={"comm":{"abv":"1748-a","guid":"F5EAC83180739E394E09A734FA353D96.1621566796649","md":"","pid":"home","src":"so.com","fr":"so.com","t":1621566796663,"ip":"210.40.7.184","ls":"","user":{"qid":"","imageId":"","showName":""},"ssurl":"https:\/\/p.ssl.so.com\/p\/","ssl":1,"llbq":"A5,B5,C5,D5","actags":{"fengkong_level":"1.1_2.1_3.1_4.1","fengkong_type":"1","mod_result_blue":"on"}},"web":[]};So.comm.home='so';So.web.skin={"flag":"","flag_limit":"","type":0,"close":0,"skinNew":null,"skinOld":null,"skinJs":"","limitTime":"","tip":""};

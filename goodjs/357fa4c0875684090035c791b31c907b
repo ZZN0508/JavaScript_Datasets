@@ -1,0 +1,1 @@
+						jQuery(function($) {							var wrap = jQuery(".cont_slide");							var activeElement = wrap.find("li.on").get(0);															wrap.find("li").on("mouseover", function(){								if(activeElement == $(this).get(0)) return;								else {									$(activeElement).removeClass("on");									$(this).addClass("on");									activeElement = this;								}							});						});						

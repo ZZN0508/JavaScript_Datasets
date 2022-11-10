@@ -1,0 +1,1 @@
+YUI.add("intl-helper",function(e,r){!function(){"use strict";var r;"undefined"!=typeof exports?(void 0===global.Intl&&(global.Intl=require("intl")),require("../vendor/intl-messageformat_0.1.0.js"),r=require("../vendor/dust-helper-intl_0.0.1.js"),module.exports=function(e){r.register(e)}):window.DustHelperIntl.register(dust)}()},"@VERSION@",{requires:["dust-helper-intl"]});

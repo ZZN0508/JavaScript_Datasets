@@ -1,0 +1,1 @@
+		window.WPCOM_sharing_counts = {"http:\/\/totallyhitsradio.com\/2013\/12\/17\/a-look-at-food-companies-that-removed-ingredients\/":31007};	

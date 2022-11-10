@@ -1,0 +1,1 @@
+setInterval(reloadliveblock, 3600000);function reloadliveblock(){	$('#upcoming').load('/ajax/leftblock.php?lng=ru');}

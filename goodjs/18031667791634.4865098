@@ -1,0 +1,1 @@
+"use strict";function __uspapi(t,e,c){var n=getUSPData();c(n,0!==Object.keys(n).length&&n.constructor===Object)}function getUSPData(){var t=document.cookie.replace(/(?:(?:^|.*;\s*)us_privacy\s*\=\s*([^;]*).*$)|^.*$/,"$1");return null==t||0===t.length?{}:{version:t.charAt(0),uspString:t}}

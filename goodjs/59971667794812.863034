@@ -1,0 +1,1 @@
+define("addons/services/accountButtonService",["addons/services/"+window.environment+"/accountButtonService"],function(e){return{appendRedirectUrl:function(){return e.appendRedirectUrl()},renderLogoutButton:function(n){if(n)return e.renderLogoutButton(n)}}});

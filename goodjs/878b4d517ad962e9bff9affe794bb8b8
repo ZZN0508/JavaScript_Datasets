@@ -1,0 +1,1 @@
+google_ad_client = "pub-2598997343223771";/* 300x250 WL in artcl, created 8/30/09 */google_ad_slot = "9394326915";google_ad_width = 300;google_ad_height = 250;//
